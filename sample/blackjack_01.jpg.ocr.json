@@ -1,0 +1,475 @@
+[
+    {
+        "script": "",
+        "trans_script": "",
+        "pos": {
+            "x_min": 0,
+            "x_max": 0,
+            "y_min": 0,
+            "y_max": 0
+        },
+        "raw": []
+    },
+    {
+        "script": "8千人...",
+        "trans_script": "8천 명...",
+        "pos": {
+            "x_min": 817,
+            "x_max": 840,
+            "y_min": 113,
+            "y_max": 215
+        },
+        "raw": [
+            {
+                "description": "8",
+                "pos": {
+                    "x_min": 817,
+                    "x_max": 840,
+                    "y_min": 113,
+                    "y_max": 133
+                }
+            },
+            {
+                "description": "千人",
+                "pos": {
+                    "x_min": 817,
+                    "x_max": 840,
+                    "y_min": 139,
+                    "y_max": 189
+                }
+            },
+            {
+                "description": "...",
+                "pos": {
+                    "x_min": 817,
+                    "x_max": 840,
+                    "y_min": 193,
+                    "y_max": 215
+                }
+            }
+        ]
+    },
+    {
+        "script": "大学禄毎年8千人が全国にある大学医学部を卒業してゆく",
+        "trans_script": "매년 8천 명의 대학록이 전국에 있는 대학 의대를 졸업해 간다",
+        "pos": {
+            "x_min": 135,
+            "x_max": 426,
+            "y_min": 137,
+            "y_max": 366
+        },
+        "raw": [
+            {
+                "description": "大学",
+                "pos": {
+                    "x_min": 311,
+                    "x_max": 426,
+                    "y_min": 137,
+                    "y_max": 190
+                }
+            },
+            {
+                "description": "禄",
+                "pos": {
+                    "x_min": 247,
+                    "x_max": 304,
+                    "y_min": 137,
+                    "y_max": 190
+                }
+            },
+            {
+                "description": "毎年",
+                "pos": {
+                    "x_min": 235,
+                    "x_max": 258,
+                    "y_min": 211,
+                    "y_max": 261
+                }
+            },
+            {
+                "description": "8",
+                "pos": {
+                    "x_min": 235,
+                    "x_max": 258,
+                    "y_min": 266,
+                    "y_max": 285
+                }
+            },
+            {
+                "description": "千",
+                "pos": {
+                    "x_min": 235,
+                    "x_max": 258,
+                    "y_min": 291,
+                    "y_max": 314
+                }
+            },
+            {
+                "description": "人",
+                "pos": {
+                    "x_min": 235,
+                    "x_max": 258,
+                    "y_min": 318,
+                    "y_max": 339
+                }
+            },
+            {
+                "description": "が",
+                "pos": {
+                    "x_min": 235,
+                    "x_max": 258,
+                    "y_min": 344,
+                    "y_max": 364
+                }
+            },
+            {
+                "description": "全国",
+                "pos": {
+                    "x_min": 202,
+                    "x_max": 223,
+                    "y_min": 212,
+                    "y_max": 261
+                }
+            },
+            {
+                "description": "に",
+                "pos": {
+                    "x_min": 202,
+                    "x_max": 223,
+                    "y_min": 265,
+                    "y_max": 285
+                }
+            },
+            {
+                "description": "ある",
+                "pos": {
+                    "x_min": 202,
+                    "x_max": 223,
+                    "y_min": 315,
+                    "y_max": 365
+                }
+            },
+            {
+                "description": "大学",
+                "pos": {
+                    "x_min": 169,
+                    "x_max": 192,
+                    "y_min": 212,
+                    "y_max": 263
+                }
+            },
+            {
+                "description": "医学部",
+                "pos": {
+                    "x_min": 169,
+                    "x_max": 192,
+                    "y_min": 264,
+                    "y_max": 341
+                }
+            },
+            {
+                "description": "を",
+                "pos": {
+                    "x_min": 169,
+                    "x_max": 192,
+                    "y_min": 344,
+                    "y_max": 366
+                }
+            },
+            {
+                "description": "卒業",
+                "pos": {
+                    "x_min": 135,
+                    "x_max": 158,
+                    "y_min": 211,
+                    "y_max": 263
+                }
+            },
+            {
+                "description": "し",
+                "pos": {
+                    "x_min": 135,
+                    "x_max": 158,
+                    "y_min": 265,
+                    "y_max": 287
+                }
+            },
+            {
+                "description": "て",
+                "pos": {
+                    "x_min": 135,
+                    "x_max": 158,
+                    "y_min": 293,
+                    "y_max": 315
+                }
+            },
+            {
+                "description": "ゆく",
+                "pos": {
+                    "x_min": 135,
+                    "x_max": 158,
+                    "y_min": 318,
+                    "y_max": 365
+                }
+            }
+        ]
+    },
+    {
+        "script": "医学部",
+        "trans_script": "의학부",
+        "pos": {
+            "x_min": 441,
+            "x_max": 612,
+            "y_min": 137,
+            "y_max": 190
+        },
+        "raw": [
+            {
+                "description": "医学部",
+                "pos": {
+                    "x_min": 441,
+                    "x_max": 612,
+                    "y_min": 137,
+                    "y_max": 190
+                }
+            }
+        ]
+    },
+    {
+        "script": "卒業",
+        "trans_script": "졸업.",
+        "pos": {
+            "x_min": 645,
+            "x_max": 767,
+            "y_min": 137,
+            "y_max": 190
+        },
+        "raw": [
+            {
+                "description": "卒業",
+                "pos": {
+                    "x_min": 645,
+                    "x_max": 767,
+                    "y_min": 137,
+                    "y_max": 190
+                }
+            }
+        ]
+    },
+    {
+        "script": "式卒業医学部大学永禄",
+        "trans_script": "식 졸업 의학부 대학 영록",
+        "pos": {
+            "x_min": 383,
+            "x_max": 650,
+            "y_min": 431,
+            "y_max": 455
+        },
+        "raw": [
+            {
+                "description": "式",
+                "pos": {
+                    "x_min": 628,
+                    "x_max": 650,
+                    "y_min": 431,
+                    "y_max": 454
+                }
+            },
+            {
+                "description": "卒業",
+                "pos": {
+                    "x_min": 574,
+                    "x_max": 624,
+                    "y_min": 431,
+                    "y_max": 454
+                }
+            },
+            {
+                "description": "医学部",
+                "pos": {
+                    "x_min": 489,
+                    "x_max": 560,
+                    "y_min": 431,
+                    "y_max": 454
+                }
+            },
+            {
+                "description": "大学",
+                "pos": {
+                    "x_min": 435,
+                    "x_max": 483,
+                    "y_min": 431,
+                    "y_max": 454
+                }
+            },
+            {
+                "description": "永禄",
+                "pos": {
+                    "x_min": 383,
+                    "x_max": 430,
+                    "y_min": 431,
+                    "y_max": 455
+                }
+            }
+        ]
+    },
+    {
+        "script": "君達はその8千人のトップの30人である!",
+        "trans_script": "너희는 그 8천 명의 톱인 30명이다!",
+        "pos": {
+            "x_min": 190,
+            "x_max": 309,
+            "y_min": 867,
+            "y_max": 1023
+        },
+        "raw": [
+            {
+                "description": "君達",
+                "pos": {
+                    "x_min": 289,
+                    "x_max": 309,
+                    "y_min": 870,
+                    "y_max": 919
+                }
+            },
+            {
+                "description": "は",
+                "pos": {
+                    "x_min": 289,
+                    "x_max": 309,
+                    "y_min": 923,
+                    "y_max": 944
+                }
+            },
+            {
+                "description": "その",
+                "pos": {
+                    "x_min": 254,
+                    "x_max": 277,
+                    "y_min": 867,
+                    "y_max": 915
+                }
+            },
+            {
+                "description": "8",
+                "pos": {
+                    "x_min": 254,
+                    "x_max": 277,
+                    "y_min": 922,
+                    "y_max": 940
+                }
+            },
+            {
+                "description": "千",
+                "pos": {
+                    "x_min": 254,
+                    "x_max": 277,
+                    "y_min": 947,
+                    "y_max": 969
+                }
+            },
+            {
+                "description": "人",
+                "pos": {
+                    "x_min": 254,
+                    "x_max": 277,
+                    "y_min": 974,
+                    "y_max": 996
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 254,
+                    "x_max": 277,
+                    "y_min": 1002,
+                    "y_max": 1022
+                }
+            },
+            {
+                "description": "トップ",
+                "pos": {
+                    "x_min": 221,
+                    "x_max": 247,
+                    "y_min": 868,
+                    "y_max": 944
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 221,
+                    "x_max": 245,
+                    "y_min": 949,
+                    "y_max": 969
+                }
+            },
+            {
+                "description": "30",
+                "pos": {
+                    "x_min": 221,
+                    "x_max": 245,
+                    "y_min": 974,
+                    "y_max": 997
+                }
+            },
+            {
+                "description": "人",
+                "pos": {
+                    "x_min": 220,
+                    "x_max": 244,
+                    "y_min": 999,
+                    "y_max": 1023
+                }
+            },
+            {
+                "description": "で",
+                "pos": {
+                    "x_min": 190,
+                    "x_max": 210,
+                    "y_min": 869,
+                    "y_max": 891
+                }
+            },
+            {
+                "description": "ある",
+                "pos": {
+                    "x_min": 190,
+                    "x_max": 210,
+                    "y_min": 893,
+                    "y_max": 942
+                }
+            },
+            {
+                "description": "!",
+                "pos": {
+                    "x_min": 190,
+                    "x_max": 210,
+                    "y_min": 947,
+                    "y_max": 969
+                }
+            }
+        ]
+    },
+    {
+        "script": "②",
+        "trans_script": "②",
+        "pos": {
+            "x_min": 859,
+            "x_max": 889,
+            "y_min": 1137,
+            "y_max": 1165
+        },
+        "raw": [
+            {
+                "description": "②",
+                "pos": {
+                    "x_min": 859,
+                    "x_max": 889,
+                    "y_min": 1137,
+                    "y_max": 1165
+                }
+            }
+        ]
+    }
+]

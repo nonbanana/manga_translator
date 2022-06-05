@@ -1,0 +1,823 @@
+[
+    {
+        "script": "",
+        "trans_script": "",
+        "pos": {
+            "x_min": 0,
+            "x_max": 0,
+            "y_min": 0,
+            "y_max": 0
+        },
+        "raw": []
+    },
+    {
+        "script": "時間時間労働16平均1日LUN日給ではなく月給である",
+        "trans_script": "시간 노동 16 평균 1일 LUN 일급이 아니라 월급이다",
+        "pos": {
+            "x_min": 785,
+            "x_max": 884,
+            "y_min": 91,
+            "y_max": 766
+        },
+        "raw": [
+            {
+                "description": "時間",
+                "pos": {
+                    "x_min": 841,
+                    "x_max": 884,
+                    "y_min": 465,
+                    "y_max": 543
+                }
+            },
+            {
+                "description": "時間",
+                "pos": {
+                    "x_min": 840,
+                    "x_max": 883,
+                    "y_min": 338,
+                    "y_max": 416
+                }
+            },
+            {
+                "description": "労働",
+                "pos": {
+                    "x_min": 840,
+                    "x_max": 882,
+                    "y_min": 254,
+                    "y_max": 335
+                }
+            },
+            {
+                "description": "16",
+                "pos": {
+                    "x_min": 841,
+                    "x_max": 882,
+                    "y_min": 423,
+                    "y_max": 455
+                }
+            },
+            {
+                "description": "平均",
+                "pos": {
+                    "x_min": 839,
+                    "x_max": 881,
+                    "y_min": 169,
+                    "y_max": 250
+                }
+            },
+            {
+                "description": "1",
+                "pos": {
+                    "x_min": 839,
+                    "x_max": 880,
+                    "y_min": 91,
+                    "y_max": 121
+                }
+            },
+            {
+                "description": "日",
+                "pos": {
+                    "x_min": 839,
+                    "x_max": 880,
+                    "y_min": 129,
+                    "y_max": 165
+                }
+            },
+            {
+                "description": "LUN",
+                "pos": {
+                    "x_min": 785,
+                    "x_max": 843,
+                    "y_min": 304,
+                    "y_max": 410
+                }
+            },
+            {
+                "description": "日給",
+                "pos": {
+                    "x_min": 821,
+                    "x_max": 840,
+                    "y_min": 639,
+                    "y_max": 681
+                }
+            },
+            {
+                "description": "で",
+                "pos": {
+                    "x_min": 821,
+                    "x_max": 840,
+                    "y_min": 684,
+                    "y_max": 701
+                }
+            },
+            {
+                "description": "は",
+                "pos": {
+                    "x_min": 821,
+                    "x_max": 840,
+                    "y_min": 705,
+                    "y_max": 723
+                }
+            },
+            {
+                "description": "なく",
+                "pos": {
+                    "x_min": 821,
+                    "x_max": 840,
+                    "y_min": 725,
+                    "y_max": 766
+                }
+            },
+            {
+                "description": "月給",
+                "pos": {
+                    "x_min": 789,
+                    "x_max": 806,
+                    "y_min": 637,
+                    "y_max": 678
+                }
+            },
+            {
+                "description": "で",
+                "pos": {
+                    "x_min": 789,
+                    "x_max": 806,
+                    "y_min": 682,
+                    "y_max": 700
+                }
+            },
+            {
+                "description": "ある",
+                "pos": {
+                    "x_min": 789,
+                    "x_max": 806,
+                    "y_min": 703,
+                    "y_max": 743
+                }
+            }
+        ]
+    },
+    {
+        "script": "Y",
+        "trans_script": "Y",
+        "pos": {
+            "x_min": 478,
+            "x_max": 484,
+            "y_min": 127,
+            "y_max": 133
+        },
+        "raw": [
+            {
+                "description": "Y",
+                "pos": {
+                    "x_min": 478,
+                    "x_max": 484,
+                    "y_min": 127,
+                    "y_max": 133
+                }
+            }
+        ]
+    },
+    {
+        "script": "月給なんと･････・3万8千円",
+        "trans_script": "월급이라니......3만8천엔",
+        "pos": {
+            "x_min": 147,
+            "x_max": 236,
+            "y_min": 80,
+            "y_max": 373
+        },
+        "raw": [
+            {
+                "description": "月給",
+                "pos": {
+                    "x_min": 197,
+                    "x_max": 236,
+                    "y_min": 82,
+                    "y_max": 161
+                }
+            },
+            {
+                "description": "なんと",
+                "pos": {
+                    "x_min": 197,
+                    "x_max": 236,
+                    "y_min": 166,
+                    "y_max": 285
+                }
+            },
+            {
+                "description": "･････・",
+                "pos": {
+                    "x_min": 197,
+                    "x_max": 236,
+                    "y_min": 293,
+                    "y_max": 373
+                }
+            },
+            {
+                "description": "3",
+                "pos": {
+                    "x_min": 147,
+                    "x_max": 183,
+                    "y_min": 80,
+                    "y_max": 119
+                }
+            },
+            {
+                "description": "万",
+                "pos": {
+                    "x_min": 147,
+                    "x_max": 183,
+                    "y_min": 124,
+                    "y_max": 161
+                }
+            },
+            {
+                "description": "8",
+                "pos": {
+                    "x_min": 147,
+                    "x_max": 183,
+                    "y_min": 166,
+                    "y_max": 206
+                }
+            },
+            {
+                "description": "千",
+                "pos": {
+                    "x_min": 147,
+                    "x_max": 183,
+                    "y_min": 207,
+                    "y_max": 244
+                }
+            },
+            {
+                "description": "円",
+                "pos": {
+                    "x_min": 147,
+                    "x_max": 183,
+                    "y_min": 250,
+                    "y_max": 288
+                }
+            }
+        ]
+    },
+    {
+        "script": "シャコール",
+        "trans_script": "샤콜",
+        "pos": {
+            "x_min": 587,
+            "x_max": 609,
+            "y_min": 646,
+            "y_max": 732
+        },
+        "raw": [
+            {
+                "description": "シャコール",
+                "pos": {
+                    "x_min": 587,
+                    "x_max": 609,
+                    "y_min": 646,
+                    "y_max": 732
+                }
+            }
+        ]
+    },
+    {
+        "script": "シャコール04",
+        "trans_script": "샤콜04",
+        "pos": {
+            "x_min": 307,
+            "x_max": 426,
+            "y_min": 682,
+            "y_max": 796
+        },
+        "raw": [
+            {
+                "description": "シャコール",
+                "pos": {
+                    "x_min": 406,
+                    "x_max": 426,
+                    "y_min": 730,
+                    "y_max": 796
+                }
+            },
+            {
+                "description": "04",
+                "pos": {
+                    "x_min": 307,
+                    "x_max": 320,
+                    "y_min": 682,
+                    "y_max": 715
+                }
+            }
+        ]
+    },
+    {
+        "script": "うちの病院の待遇が特別に悪いわけではない国立ではもう少し高いらしいが私大病院の研修医の月給は10万円以下の所が約7割を占めるその給料で寮も食事もないんだから生活できるわけない",
+        "trans_script": "우리 병원의 대우가 특별히 나쁜 것은 아닌 국립에서는 좀 더 높은 것 같지만, 사대병원 연수의 월급은 10만엔 이하인 곳이 약 70%를 차지하는 그 월급으로 기숙사도 식사도 없으니 생활할 리가 없다.",
+        "pos": {
+            "x_min": 351,
+            "x_max": 870,
+            "y_min": 899,
+            "y_max": 1081
+        },
+        "raw": [
+            {
+                "description": "うち",
+                "pos": {
+                    "x_min": 852,
+                    "x_max": 870,
+                    "y_min": 904,
+                    "y_max": 944
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 852,
+                    "x_max": 870,
+                    "y_min": 951,
+                    "y_max": 966
+                }
+            },
+            {
+                "description": "病院",
+                "pos": {
+                    "x_min": 852,
+                    "x_max": 870,
+                    "y_min": 970,
+                    "y_max": 1011
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 851,
+                    "x_max": 869,
+                    "y_min": 1017,
+                    "y_max": 1032
+                }
+            },
+            {
+                "description": "待遇",
+                "pos": {
+                    "x_min": 825,
+                    "x_max": 844,
+                    "y_min": 905,
+                    "y_max": 947
+                }
+            },
+            {
+                "description": "が",
+                "pos": {
+                    "x_min": 825,
+                    "x_max": 844,
+                    "y_min": 949,
+                    "y_max": 968
+                }
+            },
+            {
+                "description": "特別",
+                "pos": {
+                    "x_min": 797,
+                    "x_max": 814,
+                    "y_min": 904,
+                    "y_max": 944
+                }
+            },
+            {
+                "description": "に",
+                "pos": {
+                    "x_min": 797,
+                    "x_max": 814,
+                    "y_min": 950,
+                    "y_max": 964
+                }
+            },
+            {
+                "description": "悪い",
+                "pos": {
+                    "x_min": 797,
+                    "x_max": 814,
+                    "y_min": 970,
+                    "y_max": 1009
+                }
+            },
+            {
+                "description": "わけ",
+                "pos": {
+                    "x_min": 770,
+                    "x_max": 787,
+                    "y_min": 904,
+                    "y_max": 944
+                }
+            },
+            {
+                "description": "で",
+                "pos": {
+                    "x_min": 770,
+                    "x_max": 787,
+                    "y_min": 949,
+                    "y_max": 966
+                }
+            },
+            {
+                "description": "は",
+                "pos": {
+                    "x_min": 770,
+                    "x_max": 787,
+                    "y_min": 970,
+                    "y_max": 987
+                }
+            },
+            {
+                "description": "ない",
+                "pos": {
+                    "x_min": 770,
+                    "x_max": 787,
+                    "y_min": 992,
+                    "y_max": 1031
+                }
+            },
+            {
+                "description": "国立",
+                "pos": {
+                    "x_min": 690,
+                    "x_max": 709,
+                    "y_min": 910,
+                    "y_max": 952
+                }
+            },
+            {
+                "description": "で",
+                "pos": {
+                    "x_min": 690,
+                    "x_max": 709,
+                    "y_min": 957,
+                    "y_max": 973
+                }
+            },
+            {
+                "description": "は",
+                "pos": {
+                    "x_min": 690,
+                    "x_max": 709,
+                    "y_min": 978,
+                    "y_max": 995
+                }
+            },
+            {
+                "description": "もう少し",
+                "pos": {
+                    "x_min": 690,
+                    "x_max": 709,
+                    "y_min": 1000,
+                    "y_max": 1081
+                }
+            },
+            {
+                "description": "高い",
+                "pos": {
+                    "x_min": 664,
+                    "x_max": 681,
+                    "y_min": 908,
+                    "y_max": 948
+                }
+            },
+            {
+                "description": "らしい",
+                "pos": {
+                    "x_min": 664,
+                    "x_max": 681,
+                    "y_min": 953,
+                    "y_max": 1013
+                }
+            },
+            {
+                "description": "が",
+                "pos": {
+                    "x_min": 664,
+                    "x_max": 681,
+                    "y_min": 1017,
+                    "y_max": 1036
+                }
+            },
+            {
+                "description": "私大",
+                "pos": {
+                    "x_min": 634,
+                    "x_max": 654,
+                    "y_min": 908,
+                    "y_max": 949
+                }
+            },
+            {
+                "description": "病院",
+                "pos": {
+                    "x_min": 634,
+                    "x_max": 654,
+                    "y_min": 953,
+                    "y_max": 993
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 634,
+                    "x_max": 654,
+                    "y_min": 999,
+                    "y_max": 1014
+                }
+            },
+            {
+                "description": "研修",
+                "pos": {
+                    "x_min": 606,
+                    "x_max": 626,
+                    "y_min": 909,
+                    "y_max": 948
+                }
+            },
+            {
+                "description": "医",
+                "pos": {
+                    "x_min": 606,
+                    "x_max": 626,
+                    "y_min": 953,
+                    "y_max": 972
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 606,
+                    "x_max": 626,
+                    "y_min": 978,
+                    "y_max": 993
+                }
+            },
+            {
+                "description": "月給",
+                "pos": {
+                    "x_min": 606,
+                    "x_max": 626,
+                    "y_min": 997,
+                    "y_max": 1037
+                }
+            },
+            {
+                "description": "は",
+                "pos": {
+                    "x_min": 606,
+                    "x_max": 626,
+                    "y_min": 1042,
+                    "y_max": 1059
+                }
+            },
+            {
+                "description": "10",
+                "pos": {
+                    "x_min": 574,
+                    "x_max": 597,
+                    "y_min": 909,
+                    "y_max": 928
+                }
+            },
+            {
+                "description": "万",
+                "pos": {
+                    "x_min": 574,
+                    "x_max": 597,
+                    "y_min": 932,
+                    "y_max": 950
+                }
+            },
+            {
+                "description": "円",
+                "pos": {
+                    "x_min": 574,
+                    "x_max": 597,
+                    "y_min": 953,
+                    "y_max": 972
+                }
+            },
+            {
+                "description": "以下",
+                "pos": {
+                    "x_min": 574,
+                    "x_max": 597,
+                    "y_min": 976,
+                    "y_max": 1017
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 574,
+                    "x_max": 597,
+                    "y_min": 1021,
+                    "y_max": 1036
+                }
+            },
+            {
+                "description": "所",
+                "pos": {
+                    "x_min": 573,
+                    "x_max": 596,
+                    "y_min": 1041,
+                    "y_max": 1061
+                }
+            },
+            {
+                "description": "が",
+                "pos": {
+                    "x_min": 573,
+                    "x_max": 596,
+                    "y_min": 1061,
+                    "y_max": 1079
+                }
+            },
+            {
+                "description": "約",
+                "pos": {
+                    "x_min": 547,
+                    "x_max": 564,
+                    "y_min": 908,
+                    "y_max": 928
+                }
+            },
+            {
+                "description": "7",
+                "pos": {
+                    "x_min": 547,
+                    "x_max": 564,
+                    "y_min": 930,
+                    "y_max": 949
+                }
+            },
+            {
+                "description": "割",
+                "pos": {
+                    "x_min": 547,
+                    "x_max": 564,
+                    "y_min": 953,
+                    "y_max": 973
+                }
+            },
+            {
+                "description": "を",
+                "pos": {
+                    "x_min": 547,
+                    "x_max": 564,
+                    "y_min": 976,
+                    "y_max": 993
+                }
+            },
+            {
+                "description": "占める",
+                "pos": {
+                    "x_min": 547,
+                    "x_max": 564,
+                    "y_min": 997,
+                    "y_max": 1059
+                }
+            },
+            {
+                "description": "その",
+                "pos": {
+                    "x_min": 459,
+                    "x_max": 477,
+                    "y_min": 900,
+                    "y_max": 938
+                }
+            },
+            {
+                "description": "給料",
+                "pos": {
+                    "x_min": 459,
+                    "x_max": 477,
+                    "y_min": 943,
+                    "y_max": 984
+                }
+            },
+            {
+                "description": "で",
+                "pos": {
+                    "x_min": 459,
+                    "x_max": 477,
+                    "y_min": 989,
+                    "y_max": 1005
+                }
+            },
+            {
+                "description": "寮",
+                "pos": {
+                    "x_min": 432,
+                    "x_max": 452,
+                    "y_min": 901,
+                    "y_max": 921
+                }
+            },
+            {
+                "description": "も",
+                "pos": {
+                    "x_min": 432,
+                    "x_max": 452,
+                    "y_min": 924,
+                    "y_max": 942
+                }
+            },
+            {
+                "description": "食事",
+                "pos": {
+                    "x_min": 432,
+                    "x_max": 452,
+                    "y_min": 945,
+                    "y_max": 987
+                }
+            },
+            {
+                "description": "も",
+                "pos": {
+                    "x_min": 432,
+                    "x_max": 452,
+                    "y_min": 990,
+                    "y_max": 1007
+                }
+            },
+            {
+                "description": "ない",
+                "pos": {
+                    "x_min": 405,
+                    "x_max": 422,
+                    "y_min": 900,
+                    "y_max": 940
+                }
+            },
+            {
+                "description": "ん",
+                "pos": {
+                    "x_min": 405,
+                    "x_max": 422,
+                    "y_min": 944,
+                    "y_max": 961
+                }
+            },
+            {
+                "description": "だ",
+                "pos": {
+                    "x_min": 405,
+                    "x_max": 422,
+                    "y_min": 965,
+                    "y_max": 982
+                }
+            },
+            {
+                "description": "から",
+                "pos": {
+                    "x_min": 404,
+                    "x_max": 422,
+                    "y_min": 988,
+                    "y_max": 1029
+                }
+            },
+            {
+                "description": "生活",
+                "pos": {
+                    "x_min": 376,
+                    "x_max": 395,
+                    "y_min": 899,
+                    "y_max": 940
+                }
+            },
+            {
+                "description": "できる",
+                "pos": {
+                    "x_min": 375,
+                    "x_max": 395,
+                    "y_min": 945,
+                    "y_max": 1004
+                }
+            },
+            {
+                "description": "わけ",
+                "pos": {
+                    "x_min": 375,
+                    "x_max": 394,
+                    "y_min": 1010,
+                    "y_max": 1049
+                }
+            },
+            {
+                "description": "ない",
+                "pos": {
+                    "x_min": 351,
+                    "x_max": 367,
+                    "y_min": 899,
+                    "y_max": 938
+                }
+            }
+        ]
+    }
+]

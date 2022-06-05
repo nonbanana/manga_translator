@@ -1,0 +1,464 @@
+[
+    {
+        "script": "XOCOLOC9",
+        "trans_script": "XOCOLOC9",
+        "pos": {
+            "x_min": 377,
+            "x_max": 809,
+            "y_min": 92,
+            "y_max": 478
+        },
+        "raw": [
+            {
+                "description": "XO",
+                "pos": {
+                    "x_min": 677,
+                    "x_max": 809,
+                    "y_min": 189,
+                    "y_max": 382
+                }
+            },
+            {
+                "description": "COLOC",
+                "pos": {
+                    "x_min": 538,
+                    "x_max": 641,
+                    "y_min": 92,
+                    "y_max": 478
+                }
+            },
+            {
+                "description": "9",
+                "pos": {
+                    "x_min": 377,
+                    "x_max": 502,
+                    "y_min": 259,
+                    "y_max": 370
+                }
+            }
+        ]
+    },
+    {
+        "script": "永禄大学3ヵ月",
+        "trans_script": "에이로쿠 대학 3개월",
+        "pos": {
+            "x_min": 862,
+            "x_max": 949,
+            "y_min": 62,
+            "y_max": 226
+        },
+        "raw": [
+            {
+                "description": "永禄",
+                "pos": {
+                    "x_min": 909,
+                    "x_max": 949,
+                    "y_min": 62,
+                    "y_max": 143
+                }
+            },
+            {
+                "description": "大学",
+                "pos": {
+                    "x_min": 909,
+                    "x_max": 949,
+                    "y_min": 148,
+                    "y_max": 226
+                }
+            },
+            {
+                "description": "3",
+                "pos": {
+                    "x_min": 863,
+                    "x_max": 888,
+                    "y_min": 63,
+                    "y_max": 99
+                }
+            },
+            {
+                "description": "ヵ",
+                "pos": {
+                    "x_min": 864,
+                    "x_max": 888,
+                    "y_min": 110,
+                    "y_max": 135
+                }
+            },
+            {
+                "description": "月",
+                "pos": {
+                    "x_min": 862,
+                    "x_max": 887,
+                    "y_min": 148,
+                    "y_max": 183
+                }
+            }
+        ]
+    },
+    {
+        "script": "医学部卒業から",
+        "trans_script": "의학부 졸업부터",
+        "pos": {
+            "x_min": 907,
+            "x_max": 949,
+            "y_min": 231,
+            "y_max": 522
+        },
+        "raw": [
+            {
+                "description": "医学部",
+                "pos": {
+                    "x_min": 907,
+                    "x_max": 949,
+                    "y_min": 231,
+                    "y_max": 353
+                }
+            },
+            {
+                "description": "卒業",
+                "pos": {
+                    "x_min": 908,
+                    "x_max": 948,
+                    "y_min": 357,
+                    "y_max": 438
+                }
+            },
+            {
+                "description": "から",
+                "pos": {
+                    "x_min": 907,
+                    "x_max": 947,
+                    "y_min": 443,
+                    "y_max": 522
+                }
+            }
+        ]
+    },
+    {
+        "script": "僕は今病院で附属大学永禄研修医をしている",
+        "trans_script": "나는 지금 병원에서 부속 대학 영록 연수의를 하고 있다",
+        "pos": {
+            "x_min": 135,
+            "x_max": 278,
+            "y_min": 60,
+            "y_max": 434
+        },
+        "raw": [
+            {
+                "description": "僕",
+                "pos": {
+                    "x_min": 241,
+                    "x_max": 278,
+                    "y_min": 60,
+                    "y_max": 96
+                }
+            },
+            {
+                "description": "は",
+                "pos": {
+                    "x_min": 241,
+                    "x_max": 278,
+                    "y_min": 105,
+                    "y_max": 138
+                }
+            },
+            {
+                "description": "今",
+                "pos": {
+                    "x_min": 241,
+                    "x_max": 278,
+                    "y_min": 145,
+                    "y_max": 181
+                }
+            },
+            {
+                "description": "病院",
+                "pos": {
+                    "x_min": 189,
+                    "x_max": 230,
+                    "y_min": 314,
+                    "y_max": 392
+                }
+            },
+            {
+                "description": "で",
+                "pos": {
+                    "x_min": 191,
+                    "x_max": 230,
+                    "y_min": 402,
+                    "y_max": 434
+                }
+            },
+            {
+                "description": "附属",
+                "pos": {
+                    "x_min": 188,
+                    "x_max": 229,
+                    "y_min": 230,
+                    "y_max": 309
+                }
+            },
+            {
+                "description": "大学",
+                "pos": {
+                    "x_min": 187,
+                    "x_max": 228,
+                    "y_min": 147,
+                    "y_max": 228
+                }
+            },
+            {
+                "description": "永禄",
+                "pos": {
+                    "x_min": 186,
+                    "x_max": 227,
+                    "y_min": 61,
+                    "y_max": 144
+                }
+            },
+            {
+                "description": "研修",
+                "pos": {
+                    "x_min": 135,
+                    "x_max": 172,
+                    "y_min": 65,
+                    "y_max": 142
+                }
+            },
+            {
+                "description": "医",
+                "pos": {
+                    "x_min": 135,
+                    "x_max": 172,
+                    "y_min": 149,
+                    "y_max": 186
+                }
+            },
+            {
+                "description": "を",
+                "pos": {
+                    "x_min": 135,
+                    "x_max": 172,
+                    "y_min": 192,
+                    "y_max": 227
+                }
+            },
+            {
+                "description": "し",
+                "pos": {
+                    "x_min": 135,
+                    "x_max": 172,
+                    "y_min": 234,
+                    "y_max": 267
+                }
+            },
+            {
+                "description": "て",
+                "pos": {
+                    "x_min": 135,
+                    "x_max": 172,
+                    "y_min": 278,
+                    "y_max": 310
+                }
+            },
+            {
+                "description": "いる",
+                "pos": {
+                    "x_min": 135,
+                    "x_max": 172,
+                    "y_min": 321,
+                    "y_max": 392
+                }
+            }
+        ]
+    },
+    {
+        "script": "ちゅうううう",
+        "trans_script": "중우우우",
+        "pos": {
+            "x_min": 891,
+            "x_max": 912,
+            "y_min": 685,
+            "y_max": 870
+        },
+        "raw": [
+            {
+                "description": "ちゅう",
+                "pos": {
+                    "x_min": 892,
+                    "x_max": 912,
+                    "y_min": 685,
+                    "y_max": 777
+                }
+            },
+            {
+                "description": "うう",
+                "pos": {
+                    "x_min": 891,
+                    "x_max": 910,
+                    "y_min": 777,
+                    "y_max": 838
+                }
+            },
+            {
+                "description": "う",
+                "pos": {
+                    "x_min": 892,
+                    "x_max": 910,
+                    "y_min": 840,
+                    "y_max": 870
+                }
+            }
+        ]
+    },
+    {
+        "script": "チューホラさいとう斉藤!",
+        "trans_script": "뽀뽀라 사이토우 사이토우!",
+        "pos": {
+            "x_min": 578,
+            "x_max": 839,
+            "y_min": 1044,
+            "y_max": 1118
+        },
+        "raw": [
+            {
+                "description": "チュー",
+                "pos": {
+                    "x_min": 708,
+                    "x_max": 839,
+                    "y_min": 1044,
+                    "y_max": 1088
+                }
+            },
+            {
+                "description": "ホラ",
+                "pos": {
+                    "x_min": 614,
+                    "x_max": 627,
+                    "y_min": 1060,
+                    "y_max": 1098
+                }
+            },
+            {
+                "description": "さいとう",
+                "pos": {
+                    "x_min": 603,
+                    "x_max": 609,
+                    "y_min": 1059,
+                    "y_max": 1100
+                }
+            },
+            {
+                "description": "斉",
+                "pos": {
+                    "x_min": 578,
+                    "x_max": 597,
+                    "y_min": 1056,
+                    "y_max": 1079
+                }
+            },
+            {
+                "description": "藤",
+                "pos": {
+                    "x_min": 578,
+                    "x_max": 597,
+                    "y_min": 1078,
+                    "y_max": 1099
+                }
+            },
+            {
+                "description": "!",
+                "pos": {
+                    "x_min": 578,
+                    "x_max": 597,
+                    "y_min": 1101,
+                    "y_max": 1118
+                }
+            }
+        ]
+    },
+    {
+        "script": "注射するのにそんなイチイチ顔すんな!",
+        "trans_script": "주사 맞는데 그런 얼굴 하지마!",
+        "pos": {
+            "x_min": 168,
+            "x_max": 241,
+            "y_min": 1222,
+            "y_max": 1372
+        },
+        "raw": [
+            {
+                "description": "注射",
+                "pos": {
+                    "x_min": 223,
+                    "x_max": 241,
+                    "y_min": 1223,
+                    "y_max": 1265
+                }
+            },
+            {
+                "description": "する",
+                "pos": {
+                    "x_min": 223,
+                    "x_max": 241,
+                    "y_min": 1266,
+                    "y_max": 1306
+                }
+            },
+            {
+                "description": "のに",
+                "pos": {
+                    "x_min": 223,
+                    "x_max": 241,
+                    "y_min": 1312,
+                    "y_max": 1349
+                }
+            },
+            {
+                "description": "そんな",
+                "pos": {
+                    "x_min": 195,
+                    "x_max": 215,
+                    "y_min": 1311,
+                    "y_max": 1372
+                }
+            },
+            {
+                "description": "イチイチ",
+                "pos": {
+                    "x_min": 194,
+                    "x_max": 214,
+                    "y_min": 1222,
+                    "y_max": 1307
+                }
+            },
+            {
+                "description": "顔",
+                "pos": {
+                    "x_min": 168,
+                    "x_max": 186,
+                    "y_min": 1223,
+                    "y_max": 1244
+                }
+            },
+            {
+                "description": "すんな",
+                "pos": {
+                    "x_min": 168,
+                    "x_max": 186,
+                    "y_min": 1245,
+                    "y_max": 1308
+                }
+            },
+            {
+                "description": "!",
+                "pos": {
+                    "x_min": 168,
+                    "x_max": 186,
+                    "y_min": 1312,
+                    "y_max": 1329
+                }
+            }
+        ]
+    }
+]

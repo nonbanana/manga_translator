@@ -1,0 +1,317 @@
+[
+    {
+        "script": "-病院",
+        "trans_script": "병원.",
+        "pos": {
+            "x_min": 584,
+            "x_max": 878,
+            "y_min": 85,
+            "y_max": 1475
+        },
+        "raw": [
+            {
+                "description": "-",
+                "pos": {
+                    "x_min": 584,
+                    "x_max": 878,
+                    "y_min": 85,
+                    "y_max": 579
+                }
+            },
+            {
+                "description": "病院",
+                "pos": {
+                    "x_min": 749,
+                    "x_max": 857,
+                    "y_min": 1245,
+                    "y_max": 1475
+                }
+            }
+        ]
+    },
+    {
+        "script": "--------5TORE125的CCTTog",
+        "trans_script": "--------5TORE 125적 CCTTog",
+        "pos": {
+            "x_min": 335,
+            "x_max": 414,
+            "y_min": 266,
+            "y_max": 349
+        },
+        "raw": [
+            {
+                "description": "--------",
+                "pos": {
+                    "x_min": 409,
+                    "x_max": 414,
+                    "y_min": 266,
+                    "y_max": 349
+                }
+            },
+            {
+                "description": "5",
+                "pos": {
+                    "x_min": 369,
+                    "x_max": 376,
+                    "y_min": 320,
+                    "y_max": 333
+                }
+            },
+            {
+                "description": "TORE",
+                "pos": {
+                    "x_min": 366,
+                    "x_max": 372,
+                    "y_min": 272,
+                    "y_max": 304
+                }
+            },
+            {
+                "description": "125",
+                "pos": {
+                    "x_min": 352,
+                    "x_max": 361,
+                    "y_min": 317,
+                    "y_max": 344
+                }
+            },
+            {
+                "description": "的",
+                "pos": {
+                    "x_min": 351,
+                    "x_max": 358,
+                    "y_min": 272,
+                    "y_max": 286
+                }
+            },
+            {
+                "description": "CCT",
+                "pos": {
+                    "x_min": 337,
+                    "x_max": 347,
+                    "y_min": 276,
+                    "y_max": 303
+                }
+            },
+            {
+                "description": "Tog",
+                "pos": {
+                    "x_min": 335,
+                    "x_max": 343,
+                    "y_min": 314,
+                    "y_max": 340
+                }
+            }
+        ]
+    },
+    {
+        "script": "大学林",
+        "trans_script": "대학림",
+        "pos": {
+            "x_min": 682,
+            "x_max": 796,
+            "y_min": 870,
+            "y_max": 1135
+        },
+        "raw": [
+            {
+                "description": "大学",
+                "pos": {
+                    "x_min": 692,
+                    "x_max": 796,
+                    "y_min": 928,
+                    "y_max": 1135
+                }
+            },
+            {
+                "description": "林",
+                "pos": {
+                    "x_min": 682,
+                    "x_max": 773,
+                    "y_min": 870,
+                    "y_max": 1004
+                }
+            }
+        ]
+    },
+    {
+        "script": "附属",
+        "trans_script": "부속",
+        "pos": {
+            "x_min": 719,
+            "x_max": 823,
+            "y_min": 1076,
+            "y_max": 1285
+        },
+        "raw": [
+            {
+                "description": "附属",
+                "pos": {
+                    "x_min": 719,
+                    "x_max": 823,
+                    "y_min": 1076,
+                    "y_max": 1285
+                }
+            }
+        ]
+    },
+    {
+        "script": "そうな眠だ……斉藤",
+        "trans_script": "그런 졸리다....사이토",
+        "pos": {
+            "x_min": 446,
+            "x_max": 492,
+            "y_min": 1085,
+            "y_max": 1193
+        },
+        "raw": [
+            {
+                "description": "そう",
+                "pos": {
+                    "x_min": 474,
+                    "x_max": 492,
+                    "y_min": 1110,
+                    "y_max": 1150
+                }
+            },
+            {
+                "description": "な",
+                "pos": {
+                    "x_min": 475,
+                    "x_max": 492,
+                    "y_min": 1175,
+                    "y_max": 1193
+                }
+            },
+            {
+                "description": "眠",
+                "pos": {
+                    "x_min": 474,
+                    "x_max": 491,
+                    "y_min": 1087,
+                    "y_max": 1107
+                }
+            },
+            {
+                "description": "だ",
+                "pos": {
+                    "x_min": 474,
+                    "x_max": 491,
+                    "y_min": 1153,
+                    "y_max": 1171
+                }
+            },
+            {
+                "description": "……",
+                "pos": {
+                    "x_min": 446,
+                    "x_max": 466,
+                    "y_min": 1129,
+                    "y_max": 1176
+                }
+            },
+            {
+                "description": "斉",
+                "pos": {
+                    "x_min": 446,
+                    "x_max": 465,
+                    "y_min": 1085,
+                    "y_max": 1108
+                }
+            },
+            {
+                "description": "藤",
+                "pos": {
+                    "x_min": 446,
+                    "x_max": 465,
+                    "y_min": 1107,
+                    "y_max": 1131
+                }
+            }
+        ]
+    },
+    {
+        "script": "手術室うんさっきまで当直だったから",
+        "trans_script": "수술실 응 조금 전까지 당직이었으니까",
+        "pos": {
+            "x_min": 172,
+            "x_max": 383,
+            "y_min": 1129,
+            "y_max": 1342
+        },
+        "raw": [
+            {
+                "description": "手術室",
+                "pos": {
+                    "x_min": 265,
+                    "x_max": 383,
+                    "y_min": 1129,
+                    "y_max": 1228
+                }
+            },
+            {
+                "description": "うん",
+                "pos": {
+                    "x_min": 226,
+                    "x_max": 241,
+                    "y_min": 1188,
+                    "y_max": 1229
+                }
+            },
+            {
+                "description": "さっき",
+                "pos": {
+                    "x_min": 198,
+                    "x_max": 217,
+                    "y_min": 1192,
+                    "y_max": 1253
+                }
+            },
+            {
+                "description": "まで",
+                "pos": {
+                    "x_min": 198,
+                    "x_max": 217,
+                    "y_min": 1257,
+                    "y_max": 1297
+                }
+            },
+            {
+                "description": "当直",
+                "pos": {
+                    "x_min": 198,
+                    "x_max": 217,
+                    "y_min": 1302,
+                    "y_max": 1342
+                }
+            },
+            {
+                "description": "だっ",
+                "pos": {
+                    "x_min": 172,
+                    "x_max": 188,
+                    "y_min": 1190,
+                    "y_max": 1230
+                }
+            },
+            {
+                "description": "た",
+                "pos": {
+                    "x_min": 172,
+                    "x_max": 188,
+                    "y_min": 1236,
+                    "y_max": 1255
+                }
+            },
+            {
+                "description": "から",
+                "pos": {
+                    "x_min": 172,
+                    "x_max": 188,
+                    "y_min": 1259,
+                    "y_max": 1299
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,899 @@
+[
+    {
+        "script": "DE",
+        "trans_script": "DE",
+        "pos": {
+            "x_min": 664,
+            "x_max": 876,
+            "y_min": 1032,
+            "y_max": 1360
+        },
+        "raw": [
+            {
+                "description": "DE",
+                "pos": {
+                    "x_min": 664,
+                    "x_max": 876,
+                    "y_min": 1032,
+                    "y_max": 1360
+                }
+            }
+        ]
+    },
+    {
+        "script": "研修医というのは要するに見習いだ",
+        "trans_script": "연수 의사라는 것은 요컨대 견습이다.",
+        "pos": {
+            "x_min": 780,
+            "x_max": 825,
+            "y_min": 81,
+            "y_max": 255
+        },
+        "raw": [
+            {
+                "description": "研修",
+                "pos": {
+                    "x_min": 806,
+                    "x_max": 825,
+                    "y_min": 81,
+                    "y_max": 122
+                }
+            },
+            {
+                "description": "医",
+                "pos": {
+                    "x_min": 806,
+                    "x_max": 825,
+                    "y_min": 126,
+                    "y_max": 145
+                }
+            },
+            {
+                "description": "という",
+                "pos": {
+                    "x_min": 806,
+                    "x_max": 825,
+                    "y_min": 149,
+                    "y_max": 210
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 806,
+                    "x_max": 825,
+                    "y_min": 216,
+                    "y_max": 231
+                }
+            },
+            {
+                "description": "は",
+                "pos": {
+                    "x_min": 806,
+                    "x_max": 825,
+                    "y_min": 236,
+                    "y_max": 255
+                }
+            },
+            {
+                "description": "要するに",
+                "pos": {
+                    "x_min": 780,
+                    "x_max": 799,
+                    "y_min": 83,
+                    "y_max": 167
+                }
+            },
+            {
+                "description": "見習い",
+                "pos": {
+                    "x_min": 780,
+                    "x_max": 799,
+                    "y_min": 172,
+                    "y_max": 233
+                }
+            },
+            {
+                "description": "だ",
+                "pos": {
+                    "x_min": 780,
+                    "x_max": 799,
+                    "y_min": 238,
+                    "y_max": 255
+                }
+            }
+        ]
+    },
+    {
+        "script": "218医者になるには大学で6年間医学を学び",
+        "trans_script": "218 의사가 되려면 대학에서 6년간 의학을 공부했고",
+        "pos": {
+            "x_min": 442,
+            "x_max": 581,
+            "y_min": 95,
+            "y_max": 292
+        },
+        "raw": [
+            {
+                "description": "218",
+                "pos": {
+                    "x_min": 566,
+                    "x_max": 581,
+                    "y_min": 223,
+                    "y_max": 292
+                }
+            },
+            {
+                "description": "医者",
+                "pos": {
+                    "x_min": 496,
+                    "x_max": 514,
+                    "y_min": 96,
+                    "y_max": 137
+                }
+            },
+            {
+                "description": "に",
+                "pos": {
+                    "x_min": 496,
+                    "x_max": 514,
+                    "y_min": 142,
+                    "y_max": 158
+                }
+            },
+            {
+                "description": "なる",
+                "pos": {
+                    "x_min": 496,
+                    "x_max": 514,
+                    "y_min": 163,
+                    "y_max": 202
+                }
+            },
+            {
+                "description": "に",
+                "pos": {
+                    "x_min": 496,
+                    "x_max": 514,
+                    "y_min": 208,
+                    "y_max": 224
+                }
+            },
+            {
+                "description": "は",
+                "pos": {
+                    "x_min": 496,
+                    "x_max": 514,
+                    "y_min": 229,
+                    "y_max": 247
+                }
+            },
+            {
+                "description": "大学",
+                "pos": {
+                    "x_min": 469,
+                    "x_max": 488,
+                    "y_min": 95,
+                    "y_max": 139
+                }
+            },
+            {
+                "description": "で",
+                "pos": {
+                    "x_min": 469,
+                    "x_max": 488,
+                    "y_min": 142,
+                    "y_max": 159
+                }
+            },
+            {
+                "description": "6",
+                "pos": {
+                    "x_min": 469,
+                    "x_max": 488,
+                    "y_min": 163,
+                    "y_max": 181
+                }
+            },
+            {
+                "description": "年間",
+                "pos": {
+                    "x_min": 468,
+                    "x_max": 488,
+                    "y_min": 184,
+                    "y_max": 227
+                }
+            },
+            {
+                "description": "医学",
+                "pos": {
+                    "x_min": 442,
+                    "x_max": 461,
+                    "y_min": 97,
+                    "y_max": 140
+                }
+            },
+            {
+                "description": "を",
+                "pos": {
+                    "x_min": 442,
+                    "x_max": 461,
+                    "y_min": 143,
+                    "y_max": 160
+                }
+            },
+            {
+                "description": "学び",
+                "pos": {
+                    "x_min": 442,
+                    "x_max": 461,
+                    "y_min": 164,
+                    "y_max": 204
+                }
+            }
+        ]
+    },
+    {
+        "script": "医師国家試験に合格しなければいけない",
+        "trans_script": "의사 국가 시험에 합격하지 않으면 안 된다",
+        "pos": {
+            "x_min": 105,
+            "x_max": 176,
+            "y_min": 358,
+            "y_max": 509
+        },
+        "raw": [
+            {
+                "description": "医師",
+                "pos": {
+                    "x_min": 156,
+                    "x_max": 176,
+                    "y_min": 358,
+                    "y_max": 399
+                }
+            },
+            {
+                "description": "国家",
+                "pos": {
+                    "x_min": 156,
+                    "x_max": 176,
+                    "y_min": 402,
+                    "y_max": 444
+                }
+            },
+            {
+                "description": "試験",
+                "pos": {
+                    "x_min": 156,
+                    "x_max": 176,
+                    "y_min": 447,
+                    "y_max": 488
+                }
+            },
+            {
+                "description": "に",
+                "pos": {
+                    "x_min": 156,
+                    "x_max": 176,
+                    "y_min": 492,
+                    "y_max": 508
+                }
+            },
+            {
+                "description": "合格",
+                "pos": {
+                    "x_min": 128,
+                    "x_max": 148,
+                    "y_min": 358,
+                    "y_max": 400
+                }
+            },
+            {
+                "description": "し",
+                "pos": {
+                    "x_min": 128,
+                    "x_max": 148,
+                    "y_min": 403,
+                    "y_max": 420
+                }
+            },
+            {
+                "description": "なけれ",
+                "pos": {
+                    "x_min": 128,
+                    "x_max": 148,
+                    "y_min": 425,
+                    "y_max": 486
+                }
+            },
+            {
+                "description": "ば",
+                "pos": {
+                    "x_min": 128,
+                    "x_max": 148,
+                    "y_min": 490,
+                    "y_max": 509
+                }
+            },
+            {
+                "description": "いけ",
+                "pos": {
+                    "x_min": 105,
+                    "x_max": 119,
+                    "y_min": 362,
+                    "y_max": 402
+                }
+            },
+            {
+                "description": "ない",
+                "pos": {
+                    "x_min": 105,
+                    "x_max": 119,
+                    "y_min": 404,
+                    "y_max": 444
+                }
+            }
+        ]
+    },
+    {
+        "script": "ところがその国家試験は医学の知識をみるもので",
+        "trans_script": "그런데 그 국가시험은 의학 지식을 보는 것이고",
+        "pos": {
+            "x_min": 741,
+            "x_max": 842,
+            "y_min": 588,
+            "y_max": 760
+        },
+        "raw": [
+            {
+                "description": "ところが",
+                "pos": {
+                    "x_min": 822,
+                    "x_max": 842,
+                    "y_min": 590,
+                    "y_max": 673
+                }
+            },
+            {
+                "description": "その",
+                "pos": {
+                    "x_min": 821,
+                    "x_max": 840,
+                    "y_min": 678,
+                    "y_max": 717
+                }
+            },
+            {
+                "description": "国家",
+                "pos": {
+                    "x_min": 796,
+                    "x_max": 813,
+                    "y_min": 590,
+                    "y_max": 633
+                }
+            },
+            {
+                "description": "試験",
+                "pos": {
+                    "x_min": 796,
+                    "x_max": 813,
+                    "y_min": 636,
+                    "y_max": 676
+                }
+            },
+            {
+                "description": "は",
+                "pos": {
+                    "x_min": 796,
+                    "x_max": 813,
+                    "y_min": 680,
+                    "y_max": 695
+                }
+            },
+            {
+                "description": "医学",
+                "pos": {
+                    "x_min": 765,
+                    "x_max": 786,
+                    "y_min": 588,
+                    "y_max": 628
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 766,
+                    "x_max": 786,
+                    "y_min": 635,
+                    "y_max": 650
+                }
+            },
+            {
+                "description": "知識",
+                "pos": {
+                    "x_min": 764,
+                    "x_max": 785,
+                    "y_min": 654,
+                    "y_max": 695
+                }
+            },
+            {
+                "description": "を",
+                "pos": {
+                    "x_min": 765,
+                    "x_max": 785,
+                    "y_min": 699,
+                    "y_max": 716
+                }
+            },
+            {
+                "description": "みる",
+                "pos": {
+                    "x_min": 763,
+                    "x_max": 784,
+                    "y_min": 722,
+                    "y_max": 760
+                }
+            },
+            {
+                "description": "もの",
+                "pos": {
+                    "x_min": 741,
+                    "x_max": 757,
+                    "y_min": 589,
+                    "y_max": 628
+                }
+            },
+            {
+                "description": "で",
+                "pos": {
+                    "x_min": 741,
+                    "x_max": 757,
+                    "y_min": 634,
+                    "y_max": 650
+                }
+            }
+        ]
+    },
+    {
+        "script": "・・技実・･れていない!含ま",
+        "trans_script": "···기실··되어 있지 않다! 포함",
+        "pos": {
+            "x_min": 122,
+            "x_max": 190,
+            "y_min": 698,
+            "y_max": 872
+        },
+        "raw": [
+            {
+                "description": "・",
+                "pos": {
+                    "x_min": 181,
+                    "x_max": 190,
+                    "y_min": 720,
+                    "y_max": 736
+                }
+            },
+            {
+                "description": "・",
+                "pos": {
+                    "x_min": 179,
+                    "x_max": 189,
+                    "y_min": 698,
+                    "y_max": 715
+                }
+            },
+            {
+                "description": "技",
+                "pos": {
+                    "x_min": 156,
+                    "x_max": 176,
+                    "y_min": 720,
+                    "y_max": 736
+                }
+            },
+            {
+                "description": "実",
+                "pos": {
+                    "x_min": 157,
+                    "x_max": 175,
+                    "y_min": 698,
+                    "y_max": 715
+                }
+            },
+            {
+                "description": "・",
+                "pos": {
+                    "x_min": 147,
+                    "x_max": 156,
+                    "y_min": 698,
+                    "y_max": 715
+                }
+            },
+            {
+                "description": "･",
+                "pos": {
+                    "x_min": 148,
+                    "x_max": 155,
+                    "y_min": 720,
+                    "y_max": 736
+                }
+            },
+            {
+                "description": "れ",
+                "pos": {
+                    "x_min": 122,
+                    "x_max": 146,
+                    "y_min": 742,
+                    "y_max": 761
+                }
+            },
+            {
+                "description": "て",
+                "pos": {
+                    "x_min": 122,
+                    "x_max": 146,
+                    "y_min": 764,
+                    "y_max": 782
+                }
+            },
+            {
+                "description": "い",
+                "pos": {
+                    "x_min": 122,
+                    "x_max": 146,
+                    "y_min": 788,
+                    "y_max": 804
+                }
+            },
+            {
+                "description": "ない",
+                "pos": {
+                    "x_min": 122,
+                    "x_max": 146,
+                    "y_min": 807,
+                    "y_max": 849
+                }
+            },
+            {
+                "description": "!",
+                "pos": {
+                    "x_min": 122,
+                    "x_max": 146,
+                    "y_min": 850,
+                    "y_max": 872
+                }
+            },
+            {
+                "description": "含",
+                "pos": {
+                    "x_min": 123,
+                    "x_max": 144,
+                    "y_min": 698,
+                    "y_max": 715
+                }
+            },
+            {
+                "description": "ま",
+                "pos": {
+                    "x_min": 127,
+                    "x_max": 140,
+                    "y_min": 720,
+                    "y_max": 736
+                }
+            }
+        ]
+    },
+    {
+        "script": "BETWEそこで医師免許を取得した者の大半はその後2年間大学病院などで研修をするEもっと術野を広げろ斉藤",
+        "trans_script": "BETWE 거기서 의사 면허를 취득한 사람의 대부분은 그 후 2년간 대학 병원등에서 연수를 하는 E 더욱 술야를 넓혀라 사이토",
+        "pos": {
+            "x_min": 502,
+            "x_max": 899,
+            "y_min": 919,
+            "y_max": 1175
+        },
+        "raw": [
+            {
+                "description": "BETWE",
+                "pos": {
+                    "x_min": 849,
+                    "x_max": 899,
+                    "y_min": 1128,
+                    "y_max": 1175
+                }
+            },
+            {
+                "description": "そこで",
+                "pos": {
+                    "x_min": 847,
+                    "x_max": 866,
+                    "y_min": 949,
+                    "y_max": 1014
+                }
+            },
+            {
+                "description": "医師",
+                "pos": {
+                    "x_min": 818,
+                    "x_max": 836,
+                    "y_min": 948,
+                    "y_max": 989
+                }
+            },
+            {
+                "description": "免許",
+                "pos": {
+                    "x_min": 818,
+                    "x_max": 836,
+                    "y_min": 992,
+                    "y_max": 1035
+                }
+            },
+            {
+                "description": "を",
+                "pos": {
+                    "x_min": 818,
+                    "x_max": 836,
+                    "y_min": 1037,
+                    "y_max": 1054
+                }
+            },
+            {
+                "description": "取得",
+                "pos": {
+                    "x_min": 790,
+                    "x_max": 809,
+                    "y_min": 948,
+                    "y_max": 989
+                }
+            },
+            {
+                "description": "し",
+                "pos": {
+                    "x_min": 790,
+                    "x_max": 809,
+                    "y_min": 993,
+                    "y_max": 1010
+                }
+            },
+            {
+                "description": "た",
+                "pos": {
+                    "x_min": 790,
+                    "x_max": 809,
+                    "y_min": 1015,
+                    "y_max": 1032
+                }
+            },
+            {
+                "description": "者",
+                "pos": {
+                    "x_min": 790,
+                    "x_max": 809,
+                    "y_min": 1036,
+                    "y_max": 1056
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 789,
+                    "x_max": 808,
+                    "y_min": 1061,
+                    "y_max": 1077
+                }
+            },
+            {
+                "description": "大半",
+                "pos": {
+                    "x_min": 763,
+                    "x_max": 780,
+                    "y_min": 948,
+                    "y_max": 989
+                }
+            },
+            {
+                "description": "は",
+                "pos": {
+                    "x_min": 763,
+                    "x_max": 780,
+                    "y_min": 993,
+                    "y_max": 1010
+                }
+            },
+            {
+                "description": "その後",
+                "pos": {
+                    "x_min": 735,
+                    "x_max": 753,
+                    "y_min": 949,
+                    "y_max": 1010
+                }
+            },
+            {
+                "description": "2",
+                "pos": {
+                    "x_min": 735,
+                    "x_max": 753,
+                    "y_min": 1014,
+                    "y_max": 1031
+                }
+            },
+            {
+                "description": "年間",
+                "pos": {
+                    "x_min": 735,
+                    "x_max": 753,
+                    "y_min": 1036,
+                    "y_max": 1077
+                }
+            },
+            {
+                "description": "大学",
+                "pos": {
+                    "x_min": 708,
+                    "x_max": 727,
+                    "y_min": 950,
+                    "y_max": 990
+                }
+            },
+            {
+                "description": "病院",
+                "pos": {
+                    "x_min": 708,
+                    "x_max": 727,
+                    "y_min": 994,
+                    "y_max": 1034
+                }
+            },
+            {
+                "description": "など",
+                "pos": {
+                    "x_min": 708,
+                    "x_max": 727,
+                    "y_min": 1039,
+                    "y_max": 1079
+                }
+            },
+            {
+                "description": "で",
+                "pos": {
+                    "x_min": 708,
+                    "x_max": 727,
+                    "y_min": 1083,
+                    "y_max": 1099
+                }
+            },
+            {
+                "description": "研修",
+                "pos": {
+                    "x_min": 678,
+                    "x_max": 698,
+                    "y_min": 947,
+                    "y_max": 988
+                }
+            },
+            {
+                "description": "を",
+                "pos": {
+                    "x_min": 679,
+                    "x_max": 698,
+                    "y_min": 993,
+                    "y_max": 1011
+                }
+            },
+            {
+                "description": "する",
+                "pos": {
+                    "x_min": 677,
+                    "x_max": 698,
+                    "y_min": 1014,
+                    "y_max": 1054
+                }
+            },
+            {
+                "description": "E",
+                "pos": {
+                    "x_min": 613,
+                    "x_max": 643,
+                    "y_min": 919,
+                    "y_max": 943
+                }
+            },
+            {
+                "description": "もっと",
+                "pos": {
+                    "x_min": 567,
+                    "x_max": 583,
+                    "y_min": 948,
+                    "y_max": 1011
+                }
+            },
+            {
+                "description": "術",
+                "pos": {
+                    "x_min": 530,
+                    "x_max": 549,
+                    "y_min": 950,
+                    "y_max": 969
+                }
+            },
+            {
+                "description": "野",
+                "pos": {
+                    "x_min": 530,
+                    "x_max": 549,
+                    "y_min": 973,
+                    "y_max": 991
+                }
+            },
+            {
+                "description": "を",
+                "pos": {
+                    "x_min": 530,
+                    "x_max": 549,
+                    "y_min": 994,
+                    "y_max": 1011
+                }
+            },
+            {
+                "description": "広げろ",
+                "pos": {
+                    "x_min": 530,
+                    "x_max": 549,
+                    "y_min": 1016,
+                    "y_max": 1078
+                }
+            },
+            {
+                "description": "斉",
+                "pos": {
+                    "x_min": 502,
+                    "x_max": 521,
+                    "y_min": 948,
+                    "y_max": 970
+                }
+            },
+            {
+                "description": "藤",
+                "pos": {
+                    "x_min": 502,
+                    "x_max": 521,
+                    "y_min": 970,
+                    "y_max": 992
+                }
+            }
+        ]
+    },
+    {
+        "script": "はい!",
+        "trans_script": "네.",
+        "pos": {
+            "x_min": 412,
+            "x_max": 428,
+            "y_min": 1063,
+            "y_max": 1124
+        },
+        "raw": [
+            {
+                "description": "はい",
+                "pos": {
+                    "x_min": 412,
+                    "x_max": 428,
+                    "y_min": 1063,
+                    "y_max": 1103
+                }
+            },
+            {
+                "description": "!",
+                "pos": {
+                    "x_min": 412,
+                    "x_max": 428,
+                    "y_min": 1107,
+                    "y_max": 1124
+                }
+            }
+        ]
+    }
+]

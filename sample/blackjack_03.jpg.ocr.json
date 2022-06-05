@@ -1,0 +1,493 @@
+[
+    {
+        "script": "",
+        "trans_script": "",
+        "pos": {
+            "x_min": 0,
+            "x_max": 0,
+            "y_min": 0,
+            "y_max": 0
+        },
+        "raw": []
+    },
+    {
+        "script": "きのうの朝からもう24時間以上ここにいるよ",
+        "trans_script": "어제 아침부터 벌써 24시간 넘게 여기 있어.",
+        "pos": {
+            "x_min": 750,
+            "x_max": 852,
+            "y_min": 140,
+            "y_max": 288
+        },
+        "raw": [
+            {
+                "description": "きのう",
+                "pos": {
+                    "x_min": 833,
+                    "x_max": 852,
+                    "y_min": 141,
+                    "y_max": 205
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 833,
+                    "x_max": 850,
+                    "y_min": 210,
+                    "y_max": 227
+                }
+            },
+            {
+                "description": "朝",
+                "pos": {
+                    "x_min": 807,
+                    "x_max": 823,
+                    "y_min": 141,
+                    "y_max": 159
+                }
+            },
+            {
+                "description": "から",
+                "pos": {
+                    "x_min": 807,
+                    "x_max": 823,
+                    "y_min": 164,
+                    "y_max": 203
+                }
+            },
+            {
+                "description": "もう",
+                "pos": {
+                    "x_min": 776,
+                    "x_max": 796,
+                    "y_min": 140,
+                    "y_max": 181
+                }
+            },
+            {
+                "description": "24",
+                "pos": {
+                    "x_min": 777,
+                    "x_max": 796,
+                    "y_min": 185,
+                    "y_max": 205
+                }
+            },
+            {
+                "description": "時間",
+                "pos": {
+                    "x_min": 775,
+                    "x_max": 795,
+                    "y_min": 207,
+                    "y_max": 248
+                }
+            },
+            {
+                "description": "以上",
+                "pos": {
+                    "x_min": 774,
+                    "x_max": 795,
+                    "y_min": 251,
+                    "y_max": 288
+                }
+            },
+            {
+                "description": "ここ",
+                "pos": {
+                    "x_min": 752,
+                    "x_max": 768,
+                    "y_min": 141,
+                    "y_max": 180
+                }
+            },
+            {
+                "description": "に",
+                "pos": {
+                    "x_min": 752,
+                    "x_max": 766,
+                    "y_min": 186,
+                    "y_max": 202
+                }
+            },
+            {
+                "description": "いる",
+                "pos": {
+                    "x_min": 750,
+                    "x_max": 766,
+                    "y_min": 210,
+                    "y_max": 245
+                }
+            },
+            {
+                "description": "よ",
+                "pos": {
+                    "x_min": 751,
+                    "x_max": 765,
+                    "y_min": 250,
+                    "y_max": 268
+                }
+            }
+        ]
+    },
+    {
+        "script": "教授の実験の手伝いでさ･･・･・･",
+        "trans_script": "교수님의 실험에 도움을 받아서 말이야...",
+        "pos": {
+            "x_min": 330,
+            "x_max": 376,
+            "y_min": 95,
+            "y_max": 248
+        },
+        "raw": [
+            {
+                "description": "教授",
+                "pos": {
+                    "x_min": 357,
+                    "x_max": 376,
+                    "y_min": 95,
+                    "y_max": 136
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 357,
+                    "x_max": 376,
+                    "y_min": 142,
+                    "y_max": 158
+                }
+            },
+            {
+                "description": "実験",
+                "pos": {
+                    "x_min": 357,
+                    "x_max": 376,
+                    "y_min": 162,
+                    "y_max": 203
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 357,
+                    "x_max": 376,
+                    "y_min": 208,
+                    "y_max": 224
+                }
+            },
+            {
+                "description": "手伝い",
+                "pos": {
+                    "x_min": 331,
+                    "x_max": 349,
+                    "y_min": 96,
+                    "y_max": 156
+                }
+            },
+            {
+                "description": "で",
+                "pos": {
+                    "x_min": 331,
+                    "x_max": 349,
+                    "y_min": 163,
+                    "y_max": 178
+                }
+            },
+            {
+                "description": "さ",
+                "pos": {
+                    "x_min": 331,
+                    "x_max": 349,
+                    "y_min": 185,
+                    "y_max": 201
+                }
+            },
+            {
+                "description": "･･・･・･",
+                "pos": {
+                    "x_min": 330,
+                    "x_max": 349,
+                    "y_min": 205,
+                    "y_max": 248
+                }
+            }
+        ]
+    },
+    {
+        "script": "ゴミ3時間しか寝てねえ･･････",
+        "trans_script": "쓰레기 3시간밖에 안자고있어...",
+        "pos": {
+            "x_min": 87,
+            "x_max": 223,
+            "y_min": 66,
+            "y_max": 261
+        },
+        "raw": [
+            {
+                "description": "ゴミ",
+                "pos": {
+                    "x_min": 143,
+                    "x_max": 223,
+                    "y_min": 66,
+                    "y_max": 103
+                }
+            },
+            {
+                "description": "3",
+                "pos": {
+                    "x_min": 115,
+                    "x_max": 131,
+                    "y_min": 132,
+                    "y_max": 150
+                }
+            },
+            {
+                "description": "時間",
+                "pos": {
+                    "x_min": 115,
+                    "x_max": 131,
+                    "y_min": 154,
+                    "y_max": 193
+                }
+            },
+            {
+                "description": "しか",
+                "pos": {
+                    "x_min": 115,
+                    "x_max": 131,
+                    "y_min": 198,
+                    "y_max": 237
+                }
+            },
+            {
+                "description": "寝",
+                "pos": {
+                    "x_min": 87,
+                    "x_max": 104,
+                    "y_min": 130,
+                    "y_max": 149
+                }
+            },
+            {
+                "description": "て",
+                "pos": {
+                    "x_min": 87,
+                    "x_max": 104,
+                    "y_min": 153,
+                    "y_max": 170
+                }
+            },
+            {
+                "description": "ねえ",
+                "pos": {
+                    "x_min": 87,
+                    "x_max": 104,
+                    "y_min": 174,
+                    "y_max": 212
+                }
+            },
+            {
+                "description": "･･････",
+                "pos": {
+                    "x_min": 87,
+                    "x_max": 104,
+                    "y_min": 218,
+                    "y_max": 261
+                }
+            }
+        ]
+    },
+    {
+        "script": "will",
+        "trans_script": "will",
+        "pos": {
+            "x_min": 892,
+            "x_max": 905,
+            "y_min": 554,
+            "y_max": 589
+        },
+        "raw": [
+            {
+                "description": "will",
+                "pos": {
+                    "x_min": 892,
+                    "x_max": 905,
+                    "y_min": 554,
+                    "y_max": 589
+                }
+            }
+        ]
+    },
+    {
+        "script": "オレもさ",
+        "trans_script": "나도사",
+        "pos": {
+            "x_min": 494,
+            "x_max": 509,
+            "y_min": 516,
+            "y_max": 600
+        },
+        "raw": [
+            {
+                "description": "オレ",
+                "pos": {
+                    "x_min": 494,
+                    "x_max": 509,
+                    "y_min": 516,
+                    "y_max": 554
+                }
+            },
+            {
+                "description": "も",
+                "pos": {
+                    "x_min": 494,
+                    "x_max": 509,
+                    "y_min": 559,
+                    "y_max": 579
+                }
+            },
+            {
+                "description": "さ",
+                "pos": {
+                    "x_min": 494,
+                    "x_max": 509,
+                    "y_min": 582,
+                    "y_max": 600
+                }
+            }
+        ]
+    },
+    {
+        "script": "じゃあ僕の勝ちだ",
+        "trans_script": "그럼 내 승리야",
+        "pos": {
+            "x_min": 344,
+            "x_max": 394,
+            "y_min": 465,
+            "y_max": 573
+        },
+        "raw": [
+            {
+                "description": "じゃあ",
+                "pos": {
+                    "x_min": 373,
+                    "x_max": 394,
+                    "y_min": 466,
+                    "y_max": 529
+                }
+            },
+            {
+                "description": "僕",
+                "pos": {
+                    "x_min": 374,
+                    "x_max": 392,
+                    "y_min": 532,
+                    "y_max": 552
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 373,
+                    "x_max": 391,
+                    "y_min": 556,
+                    "y_max": 573
+                }
+            },
+            {
+                "description": "勝ち",
+                "pos": {
+                    "x_min": 344,
+                    "x_max": 363,
+                    "y_min": 465,
+                    "y_max": 508
+                }
+            },
+            {
+                "description": "だ",
+                "pos": {
+                    "x_min": 345,
+                    "x_max": 363,
+                    "y_min": 509,
+                    "y_max": 529
+                }
+            }
+        ]
+    },
+    {
+        "script": "2時間しか寝てない!",
+        "trans_script": "2시간밖에 안잤어!",
+        "pos": {
+            "x_min": 782,
+            "x_max": 846,
+            "y_min": 751,
+            "y_max": 902
+        },
+        "raw": [
+            {
+                "description": "2",
+                "pos": {
+                    "x_min": 823,
+                    "x_max": 846,
+                    "y_min": 754,
+                    "y_max": 778
+                }
+            },
+            {
+                "description": "時間",
+                "pos": {
+                    "x_min": 823,
+                    "x_max": 846,
+                    "y_min": 783,
+                    "y_max": 840
+                }
+            },
+            {
+                "description": "しか",
+                "pos": {
+                    "x_min": 823,
+                    "x_max": 846,
+                    "y_min": 845,
+                    "y_max": 902
+                }
+            },
+            {
+                "description": "寝",
+                "pos": {
+                    "x_min": 784,
+                    "x_max": 810,
+                    "y_min": 751,
+                    "y_max": 781
+                }
+            },
+            {
+                "description": "て",
+                "pos": {
+                    "x_min": 784,
+                    "x_max": 810,
+                    "y_min": 785,
+                    "y_max": 811
+                }
+            },
+            {
+                "description": "ない",
+                "pos": {
+                    "x_min": 782,
+                    "x_max": 810,
+                    "y_min": 814,
+                    "y_max": 870
+                }
+            },
+            {
+                "description": "!",
+                "pos": {
+                    "x_min": 783,
+                    "x_max": 809,
+                    "y_min": 876,
+                    "y_max": 900
+                }
+            }
+        ]
+    }
+]

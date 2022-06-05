@@ -1,0 +1,614 @@
+[
+    {
+        "script": "vevelout",
+        "trans_script": "vevelout",
+        "pos": {
+            "x_min": 286,
+            "x_max": 336,
+            "y_min": 487,
+            "y_max": 655
+        },
+        "raw": [
+            {
+                "description": "vevelout",
+                "pos": {
+                    "x_min": 286,
+                    "x_max": 336,
+                    "y_min": 487,
+                    "y_max": 655
+                }
+            }
+        ]
+    },
+    {
+        "script": "はあ:",
+        "trans_script": "응답함을 나타냄： 네.",
+        "pos": {
+            "x_min": 885,
+            "x_max": 903,
+            "y_min": 503,
+            "y_max": 558
+        },
+        "raw": [
+            {
+                "description": "はあ",
+                "pos": {
+                    "x_min": 885,
+                    "x_max": 903,
+                    "y_min": 503,
+                    "y_max": 546
+                }
+            },
+            {
+                "description": ":",
+                "pos": {
+                    "x_min": 885,
+                    "x_max": 901,
+                    "y_min": 547,
+                    "y_max": 558
+                }
+            }
+        ]
+    },
+    {
+        "script": "なあ斉藤…",
+        "trans_script": "나사이토오...",
+        "pos": {
+            "x_min": 478,
+            "x_max": 523,
+            "y_min": 515,
+            "y_max": 574
+        },
+        "raw": [
+            {
+                "description": "なあ",
+                "pos": {
+                    "x_min": 508,
+                    "x_max": 523,
+                    "y_min": 515,
+                    "y_max": 557
+                }
+            },
+            {
+                "description": "斉",
+                "pos": {
+                    "x_min": 478,
+                    "x_max": 498,
+                    "y_min": 515,
+                    "y_max": 537
+                }
+            },
+            {
+                "description": "藤",
+                "pos": {
+                    "x_min": 478,
+                    "x_max": 498,
+                    "y_min": 537,
+                    "y_max": 559
+                }
+            },
+            {
+                "description": "…",
+                "pos": {
+                    "x_min": 478,
+                    "x_max": 498,
+                    "y_min": 562,
+                    "y_max": 574
+                }
+            }
+        ]
+    },
+    {
+        "script": "手術の後でうまそうにメシを食ってる自分が嫌だ",
+        "trans_script": "수술 후에 맛있는 듯이 양치질을 하는 자신이 싫다.",
+        "pos": {
+            "x_min": 586,
+            "x_max": 687,
+            "y_min": 787,
+            "y_max": 961
+        },
+        "raw": [
+            {
+                "description": "手術",
+                "pos": {
+                    "x_min": 668,
+                    "x_max": 687,
+                    "y_min": 788,
+                    "y_max": 828
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 668,
+                    "x_max": 687,
+                    "y_min": 833,
+                    "y_max": 849
+                }
+            },
+            {
+                "description": "後",
+                "pos": {
+                    "x_min": 668,
+                    "x_max": 687,
+                    "y_min": 853,
+                    "y_max": 872
+                }
+            },
+            {
+                "description": "で",
+                "pos": {
+                    "x_min": 668,
+                    "x_max": 687,
+                    "y_min": 877,
+                    "y_max": 894
+                }
+            },
+            {
+                "description": "うまそう",
+                "pos": {
+                    "x_min": 643,
+                    "x_max": 658,
+                    "y_min": 788,
+                    "y_max": 874
+                }
+            },
+            {
+                "description": "に",
+                "pos": {
+                    "x_min": 643,
+                    "x_max": 658,
+                    "y_min": 878,
+                    "y_max": 895
+                }
+            },
+            {
+                "description": "メシ",
+                "pos": {
+                    "x_min": 643,
+                    "x_max": 658,
+                    "y_min": 901,
+                    "y_max": 940
+                }
+            },
+            {
+                "description": "を",
+                "pos": {
+                    "x_min": 643,
+                    "x_max": 658,
+                    "y_min": 943,
+                    "y_max": 961
+                }
+            },
+            {
+                "description": "食っ",
+                "pos": {
+                    "x_min": 613,
+                    "x_max": 631,
+                    "y_min": 787,
+                    "y_max": 823
+                }
+            },
+            {
+                "description": "てる",
+                "pos": {
+                    "x_min": 613,
+                    "x_max": 631,
+                    "y_min": 833,
+                    "y_max": 871
+                }
+            },
+            {
+                "description": "自分",
+                "pos": {
+                    "x_min": 613,
+                    "x_max": 631,
+                    "y_min": 876,
+                    "y_max": 917
+                }
+            },
+            {
+                "description": "が",
+                "pos": {
+                    "x_min": 613,
+                    "x_max": 631,
+                    "y_min": 920,
+                    "y_max": 936
+                }
+            },
+            {
+                "description": "嫌",
+                "pos": {
+                    "x_min": 586,
+                    "x_max": 605,
+                    "y_min": 788,
+                    "y_max": 810
+                }
+            },
+            {
+                "description": "だ",
+                "pos": {
+                    "x_min": 586,
+                    "x_max": 605,
+                    "y_min": 810,
+                    "y_max": 828
+                }
+            }
+        ]
+    },
+    {
+        "script": "オレはこのままでは人の心を失くしてしまう",
+        "trans_script": "나는 이대로는 사람의 마음을 잃어버려",
+        "pos": {
+            "x_min": 386,
+            "x_max": 463,
+            "y_min": 810,
+            "y_max": 962
+        },
+        "raw": [
+            {
+                "description": "オレ",
+                "pos": {
+                    "x_min": 446,
+                    "x_max": 463,
+                    "y_min": 810,
+                    "y_max": 849
+                }
+            },
+            {
+                "description": "は",
+                "pos": {
+                    "x_min": 446,
+                    "x_max": 463,
+                    "y_min": 854,
+                    "y_max": 872
+                }
+            },
+            {
+                "description": "この",
+                "pos": {
+                    "x_min": 446,
+                    "x_max": 463,
+                    "y_min": 877,
+                    "y_max": 917
+                }
+            },
+            {
+                "description": "まま",
+                "pos": {
+                    "x_min": 446,
+                    "x_max": 463,
+                    "y_min": 919,
+                    "y_max": 960
+                }
+            },
+            {
+                "description": "では",
+                "pos": {
+                    "x_min": 418,
+                    "x_max": 437,
+                    "y_min": 811,
+                    "y_max": 850
+                }
+            },
+            {
+                "description": "人",
+                "pos": {
+                    "x_min": 418,
+                    "x_max": 437,
+                    "y_min": 854,
+                    "y_max": 872
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 418,
+                    "x_max": 437,
+                    "y_min": 878,
+                    "y_max": 895
+                }
+            },
+            {
+                "description": "心",
+                "pos": {
+                    "x_min": 418,
+                    "x_max": 437,
+                    "y_min": 898,
+                    "y_max": 916
+                }
+            },
+            {
+                "description": "を",
+                "pos": {
+                    "x_min": 418,
+                    "x_max": 437,
+                    "y_min": 919,
+                    "y_max": 938
+                }
+            },
+            {
+                "description": "失",
+                "pos": {
+                    "x_min": 386,
+                    "x_max": 403,
+                    "y_min": 810,
+                    "y_max": 829
+                }
+            },
+            {
+                "description": "くし",
+                "pos": {
+                    "x_min": 386,
+                    "x_max": 403,
+                    "y_min": 832,
+                    "y_max": 872
+                }
+            },
+            {
+                "description": "て",
+                "pos": {
+                    "x_min": 386,
+                    "x_max": 403,
+                    "y_min": 878,
+                    "y_max": 895
+                }
+            },
+            {
+                "description": "しまう",
+                "pos": {
+                    "x_min": 386,
+                    "x_max": 403,
+                    "y_min": 898,
+                    "y_max": 962
+                }
+            }
+        ]
+    },
+    {
+        "script": "何言ってんだよ!",
+        "trans_script": "무슨 소리야!",
+        "pos": {
+            "x_min": 879,
+            "x_max": 924,
+            "y_min": 1058,
+            "y_max": 1187
+        },
+        "raw": [
+            {
+                "description": "何",
+                "pos": {
+                    "x_min": 904,
+                    "x_max": 924,
+                    "y_min": 1059,
+                    "y_max": 1079
+                }
+            },
+            {
+                "description": "言っ",
+                "pos": {
+                    "x_min": 904,
+                    "x_max": 924,
+                    "y_min": 1104,
+                    "y_max": 1141
+                }
+            },
+            {
+                "description": "て",
+                "pos": {
+                    "x_min": 904,
+                    "x_max": 924,
+                    "y_min": 1149,
+                    "y_max": 1167
+                }
+            },
+            {
+                "description": "ん",
+                "pos": {
+                    "x_min": 904,
+                    "x_max": 924,
+                    "y_min": 1170,
+                    "y_max": 1187
+                }
+            },
+            {
+                "description": "だ",
+                "pos": {
+                    "x_min": 879,
+                    "x_max": 896,
+                    "y_min": 1058,
+                    "y_max": 1078
+                }
+            },
+            {
+                "description": "よ",
+                "pos": {
+                    "x_min": 879,
+                    "x_max": 896,
+                    "y_min": 1082,
+                    "y_max": 1101
+                }
+            },
+            {
+                "description": "!",
+                "pos": {
+                    "x_min": 879,
+                    "x_max": 896,
+                    "y_min": 1104,
+                    "y_max": 1122
+                }
+            }
+        ]
+    },
+    {
+        "script": "TO",
+        "trans_script": "TO",
+        "pos": {
+            "x_min": 272,
+            "x_max": 336,
+            "y_min": 1093,
+            "y_max": 1191
+        },
+        "raw": [
+            {
+                "description": "TO",
+                "pos": {
+                    "x_min": 272,
+                    "x_max": 336,
+                    "y_min": 1093,
+                    "y_max": 1191
+                }
+            }
+        ]
+    },
+    {
+        "script": "日本の医療を僕達支えてるのはなんだぞ!",
+        "trans_script": "일본의 의료를 우리 지탱하고 있는 것은 뭐야!",
+        "pos": {
+            "x_min": 522,
+            "x_max": 594,
+            "y_min": 1197,
+            "y_max": 1373
+        },
+        "raw": [
+            {
+                "description": "日本",
+                "pos": {
+                    "x_min": 575,
+                    "x_max": 594,
+                    "y_min": 1199,
+                    "y_max": 1239
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 575,
+                    "x_max": 594,
+                    "y_min": 1244,
+                    "y_max": 1260
+                }
+            },
+            {
+                "description": "医療",
+                "pos": {
+                    "x_min": 575,
+                    "x_max": 594,
+                    "y_min": 1264,
+                    "y_max": 1306
+                }
+            },
+            {
+                "description": "を",
+                "pos": {
+                    "x_min": 575,
+                    "x_max": 594,
+                    "y_min": 1308,
+                    "y_max": 1326
+                }
+            },
+            {
+                "description": "僕達",
+                "pos": {
+                    "x_min": 548,
+                    "x_max": 568,
+                    "y_min": 1330,
+                    "y_max": 1373
+                }
+            },
+            {
+                "description": "支え",
+                "pos": {
+                    "x_min": 548,
+                    "x_max": 567,
+                    "y_min": 1198,
+                    "y_max": 1238
+                }
+            },
+            {
+                "description": "てる",
+                "pos": {
+                    "x_min": 548,
+                    "x_max": 567,
+                    "y_min": 1244,
+                    "y_max": 1282
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 548,
+                    "x_max": 567,
+                    "y_min": 1287,
+                    "y_max": 1304
+                }
+            },
+            {
+                "description": "は",
+                "pos": {
+                    "x_min": 548,
+                    "x_max": 567,
+                    "y_min": 1309,
+                    "y_max": 1327
+                }
+            },
+            {
+                "description": "なん",
+                "pos": {
+                    "x_min": 522,
+                    "x_max": 539,
+                    "y_min": 1197,
+                    "y_max": 1238
+                }
+            },
+            {
+                "description": "だ",
+                "pos": {
+                    "x_min": 522,
+                    "x_max": 539,
+                    "y_min": 1241,
+                    "y_max": 1260
+                }
+            },
+            {
+                "description": "ぞ",
+                "pos": {
+                    "x_min": 522,
+                    "x_max": 539,
+                    "y_min": 1264,
+                    "y_max": 1284
+                }
+            },
+            {
+                "description": "!",
+                "pos": {
+                    "x_min": 522,
+                    "x_max": 539,
+                    "y_min": 1286,
+                    "y_max": 1305
+                }
+            }
+        ]
+    },
+    {
+        "script": "WW",
+        "trans_script": "ㅋㅋ",
+        "pos": {
+            "x_min": 372,
+            "x_max": 386,
+            "y_min": 1393,
+            "y_max": 1414
+        },
+        "raw": [
+            {
+                "description": "WW",
+                "pos": {
+                    "x_min": 372,
+                    "x_max": 386,
+                    "y_min": 1393,
+                    "y_max": 1414
+                }
+            }
+        ]
+    }
+]

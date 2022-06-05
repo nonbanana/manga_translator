@@ -1,0 +1,398 @@
+[
+    {
+        "script": "ゲォー",
+        "trans_script": "게오",
+        "pos": {
+            "x_min": 625,
+            "x_max": 737,
+            "y_min": 207,
+            "y_max": 267
+        },
+        "raw": [
+            {
+                "description": "ゲォー",
+                "pos": {
+                    "x_min": 625,
+                    "x_max": 737,
+                    "y_min": 207,
+                    "y_max": 267
+                }
+            }
+        ]
+    },
+    {
+        "script": "起きて下さい先生!!!!",
+        "trans_script": "일어나세요 선생님!!!",
+        "pos": {
+            "x_min": 801,
+            "x_max": 855,
+            "y_min": 110,
+            "y_max": 262
+        },
+        "raw": [
+            {
+                "description": "起き",
+                "pos": {
+                    "x_min": 836,
+                    "x_max": 855,
+                    "y_min": 110,
+                    "y_max": 161
+                }
+            },
+            {
+                "description": "て",
+                "pos": {
+                    "x_min": 836,
+                    "x_max": 855,
+                    "y_min": 166,
+                    "y_max": 188
+                }
+            },
+            {
+                "description": "下さい",
+                "pos": {
+                    "x_min": 836,
+                    "x_max": 855,
+                    "y_min": 191,
+                    "y_max": 262
+                }
+            },
+            {
+                "description": "先生",
+                "pos": {
+                    "x_min": 801,
+                    "x_max": 822,
+                    "y_min": 111,
+                    "y_max": 161
+                }
+            },
+            {
+                "description": "!!!!",
+                "pos": {
+                    "x_min": 801,
+                    "x_max": 822,
+                    "y_min": 163,
+                    "y_max": 185
+                }
+            }
+        ]
+    },
+    {
+        "script": "ARXHINGS",
+        "trans_script": "ARXHINGS",
+        "pos": {
+            "x_min": 744,
+            "x_max": 771,
+            "y_min": 530,
+            "y_max": 598
+        },
+        "raw": [
+            {
+                "description": "ARXHINGS",
+                "pos": {
+                    "x_min": 744,
+                    "x_max": 771,
+                    "y_min": 530,
+                    "y_max": 598
+                }
+            }
+        ]
+    },
+    {
+        "script": "ゴラ急患です!!!!ごオペが必要な/可能性が12あります!!!!!!!!クソッ",
+        "trans_script": "고라급환입니다!!!!오페가필요한/가능성이12 있습니다!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        "pos": {
+            "x_min": 379,
+            "x_max": 791,
+            "y_min": 309,
+            "y_max": 900
+        },
+        "raw": [
+            {
+                "description": "ゴラ",
+                "pos": {
+                    "x_min": 667,
+                    "x_max": 791,
+                    "y_min": 828,
+                    "y_max": 900
+                }
+            },
+            {
+                "description": "急患",
+                "pos": {
+                    "x_min": 601,
+                    "x_max": 622,
+                    "y_min": 443,
+                    "y_max": 497
+                }
+            },
+            {
+                "description": "です",
+                "pos": {
+                    "x_min": 601,
+                    "x_max": 622,
+                    "y_min": 499,
+                    "y_max": 548
+                }
+            },
+            {
+                "description": "!!!!",
+                "pos": {
+                    "x_min": 601,
+                    "x_max": 622,
+                    "y_min": 550,
+                    "y_max": 571
+                }
+            },
+            {
+                "description": "ご",
+                "pos": {
+                    "x_min": 504,
+                    "x_max": 597,
+                    "y_min": 668,
+                    "y_max": 760
+                }
+            },
+            {
+                "description": "オペ",
+                "pos": {
+                    "x_min": 567,
+                    "x_max": 589,
+                    "y_min": 445,
+                    "y_max": 491
+                }
+            },
+            {
+                "description": "が",
+                "pos": {
+                    "x_min": 567,
+                    "x_max": 589,
+                    "y_min": 496,
+                    "y_max": 518
+                }
+            },
+            {
+                "description": "必要",
+                "pos": {
+                    "x_min": 567,
+                    "x_max": 589,
+                    "y_min": 524,
+                    "y_max": 573
+                }
+            },
+            {
+                "description": "な",
+                "pos": {
+                    "x_min": 567,
+                    "x_max": 589,
+                    "y_min": 577,
+                    "y_max": 598
+                }
+            },
+            {
+                "description": "/",
+                "pos": {
+                    "x_min": 560,
+                    "x_max": 577,
+                    "y_min": 674,
+                    "y_max": 693
+                }
+            },
+            {
+                "description": "可能",
+                "pos": {
+                    "x_min": 533,
+                    "x_max": 556,
+                    "y_min": 443,
+                    "y_max": 494
+                }
+            },
+            {
+                "description": "性",
+                "pos": {
+                    "x_min": 533,
+                    "x_max": 556,
+                    "y_min": 496,
+                    "y_max": 519
+                }
+            },
+            {
+                "description": "が",
+                "pos": {
+                    "x_min": 533,
+                    "x_max": 556,
+                    "y_min": 522,
+                    "y_max": 546
+                }
+            },
+            {
+                "description": "12",
+                "pos": {
+                    "x_min": 512,
+                    "x_max": 539,
+                    "y_min": 674,
+                    "y_max": 694
+                }
+            },
+            {
+                "description": "あり",
+                "pos": {
+                    "x_min": 502,
+                    "x_max": 521,
+                    "y_min": 445,
+                    "y_max": 493
+                }
+            },
+            {
+                "description": "ます",
+                "pos": {
+                    "x_min": 502,
+                    "x_max": 521,
+                    "y_min": 498,
+                    "y_max": 548
+                }
+            },
+            {
+                "description": "!!!!",
+                "pos": {
+                    "x_min": 502,
+                    "x_max": 521,
+                    "y_min": 551,
+                    "y_max": 571
+                }
+            },
+            {
+                "description": "!!!!",
+                "pos": {
+                    "x_min": 384,
+                    "x_max": 435,
+                    "y_min": 514,
+                    "y_max": 572
+                }
+            },
+            {
+                "description": "クソッ",
+                "pos": {
+                    "x_min": 379,
+                    "x_max": 433,
+                    "y_min": 309,
+                    "y_max": 500
+                }
+            }
+        ]
+    },
+    {
+        "script": "来ました!!!!!",
+        "trans_script": "왔습니다!!!!!",
+        "pos": {
+            "x_min": 398,
+            "x_max": 418,
+            "y_min": 854,
+            "y_max": 982
+        },
+        "raw": [
+            {
+                "description": "来",
+                "pos": {
+                    "x_min": 398,
+                    "x_max": 418,
+                    "y_min": 854,
+                    "y_max": 879
+                }
+            },
+            {
+                "description": "まし",
+                "pos": {
+                    "x_min": 398,
+                    "x_max": 418,
+                    "y_min": 881,
+                    "y_max": 933
+                }
+            },
+            {
+                "description": "た",
+                "pos": {
+                    "x_min": 398,
+                    "x_max": 418,
+                    "y_min": 935,
+                    "y_max": 956
+                }
+            },
+            {
+                "description": "!!!!!",
+                "pos": {
+                    "x_min": 398,
+                    "x_max": 418,
+                    "y_min": 936,
+                    "y_max": 982
+                }
+            }
+        ]
+    },
+    {
+        "script": "1000000救急車到着です!!!!",
+        "trans_script": "10000 구급차 도착입니다!!!",
+        "pos": {
+            "x_min": 316,
+            "x_max": 462,
+            "y_min": 1144,
+            "y_max": 1334
+        },
+        "raw": [
+            {
+                "description": "1000000",
+                "pos": {
+                    "x_min": 440,
+                    "x_max": 462,
+                    "y_min": 1144,
+                    "y_max": 1293
+                }
+            },
+            {
+                "description": "救急",
+                "pos": {
+                    "x_min": 349,
+                    "x_max": 373,
+                    "y_min": 1206,
+                    "y_max": 1256
+                }
+            },
+            {
+                "description": "車",
+                "pos": {
+                    "x_min": 349,
+                    "x_max": 373,
+                    "y_min": 1259,
+                    "y_max": 1283
+                }
+            },
+            {
+                "description": "到着",
+                "pos": {
+                    "x_min": 316,
+                    "x_max": 339,
+                    "y_min": 1205,
+                    "y_max": 1256
+                }
+            },
+            {
+                "description": "です",
+                "pos": {
+                    "x_min": 316,
+                    "x_max": 339,
+                    "y_min": 1259,
+                    "y_max": 1309
+                }
+            },
+            {
+                "description": "!!!!",
+                "pos": {
+                    "x_min": 316,
+                    "x_max": 339,
+                    "y_min": 1311,
+                    "y_max": 1334
+                }
+            }
+        ]
+    }
+]

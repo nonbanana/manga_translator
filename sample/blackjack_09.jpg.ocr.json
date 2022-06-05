@@ -1,0 +1,346 @@
+[
+    {
+        "script": "",
+        "trans_script": "",
+        "pos": {
+            "x_min": 0,
+            "x_max": 0,
+            "y_min": 0,
+            "y_max": 0
+        },
+        "raw": []
+    },
+    {
+        "script": "ILILIL",
+        "trans_script": "ILILIL",
+        "pos": {
+            "x_min": 143,
+            "x_max": 201,
+            "y_min": 801,
+            "y_max": 912
+        },
+        "raw": [
+            {
+                "description": "IL",
+                "pos": {
+                    "x_min": 153,
+                    "x_max": 201,
+                    "y_min": 836,
+                    "y_max": 878
+                }
+            },
+            {
+                "description": "IL",
+                "pos": {
+                    "x_min": 143,
+                    "x_max": 197,
+                    "y_min": 801,
+                    "y_max": 848
+                }
+            },
+            {
+                "description": "IL",
+                "pos": {
+                    "x_min": 150,
+                    "x_max": 194,
+                    "y_min": 875,
+                    "y_max": 912
+                }
+            }
+        ]
+    },
+    {
+        "script": "117",
+        "trans_script": "117",
+        "pos": {
+            "x_min": 297,
+            "x_max": 322,
+            "y_min": 1,
+            "y_max": 35
+        },
+        "raw": [
+            {
+                "description": "117",
+                "pos": {
+                    "x_min": 297,
+                    "x_max": 322,
+                    "y_min": 1,
+                    "y_max": 35
+                }
+            }
+        ]
+    },
+    {
+        "script": "TaeT[",
+        "trans_script": "TaeT[",
+        "pos": {
+            "x_min": 196,
+            "x_max": 297,
+            "y_min": 542,
+            "y_max": 634
+        },
+        "raw": [
+            {
+                "description": "Tae",
+                "pos": {
+                    "x_min": 228,
+                    "x_max": 297,
+                    "y_min": 542,
+                    "y_max": 605
+                }
+            },
+            {
+                "description": "T",
+                "pos": {
+                    "x_min": 238,
+                    "x_max": 249,
+                    "y_min": 602,
+                    "y_max": 634
+                }
+            },
+            {
+                "description": "[",
+                "pos": {
+                    "x_min": 196,
+                    "x_max": 225,
+                    "y_min": 542,
+                    "y_max": 604
+                }
+            }
+        ]
+    },
+    {
+        "script": "Acolคก1.",
+        "trans_script": "Acol ก 1 1.",
+        "pos": {
+            "x_min": 328,
+            "x_max": 470,
+            "y_min": 706,
+            "y_max": 760
+        },
+        "raw": [
+            {
+                "description": "Acol",
+                "pos": {
+                    "x_min": 417,
+                    "x_max": 470,
+                    "y_min": 706,
+                    "y_max": 735
+                }
+            },
+            {
+                "description": "ค",
+                "pos": {
+                    "x_min": 394,
+                    "x_max": 415,
+                    "y_min": 722,
+                    "y_max": 741
+                }
+            },
+            {
+                "description": "ก",
+                "pos": {
+                    "x_min": 371,
+                    "x_max": 392,
+                    "y_min": 728,
+                    "y_max": 747
+                }
+            },
+            {
+                "description": "1.",
+                "pos": {
+                    "x_min": 328,
+                    "x_max": 353,
+                    "y_min": 739,
+                    "y_max": 760
+                }
+            }
+        ]
+    },
+    {
+        "script": "มARE",
+        "trans_script": "ARARE",
+        "pos": {
+            "x_min": 570,
+            "x_max": 605,
+            "y_min": 195,
+            "y_max": 287
+        },
+        "raw": [
+            {
+                "description": "ม",
+                "pos": {
+                    "x_min": 592,
+                    "x_max": 605,
+                    "y_min": 246,
+                    "y_max": 258
+                }
+            },
+            {
+                "description": "ARE",
+                "pos": {
+                    "x_min": 570,
+                    "x_max": 592,
+                    "y_min": 195,
+                    "y_max": 287
+                }
+            }
+        ]
+    },
+    {
+        "script": "ร",
+        "trans_script": "ร",
+        "pos": {
+            "x_min": 600,
+            "x_max": 640,
+            "y_min": 81,
+            "y_max": 93
+        },
+        "raw": [
+            {
+                "description": "ร",
+                "pos": {
+                    "x_min": 600,
+                    "x_max": 640,
+                    "y_min": 81,
+                    "y_max": 93
+                }
+            }
+        ]
+    },
+    {
+        "script": "TUD",
+        "trans_script": "TUD",
+        "pos": {
+            "x_min": 694,
+            "x_max": 745,
+            "y_min": 582,
+            "y_max": 608
+        },
+        "raw": [
+            {
+                "description": "TUD",
+                "pos": {
+                    "x_min": 694,
+                    "x_max": 745,
+                    "y_min": 582,
+                    "y_max": 608
+                }
+            }
+        ]
+    },
+    {
+        "script": "*LTHRHIONA",
+        "trans_script": "* LTHRHIONA",
+        "pos": {
+            "x_min": 865,
+            "x_max": 909,
+            "y_min": 44,
+            "y_max": 143
+        },
+        "raw": [
+            {
+                "description": "*",
+                "pos": {
+                    "x_min": 896,
+                    "x_max": 909,
+                    "y_min": 85,
+                    "y_max": 92
+                }
+            },
+            {
+                "description": "L",
+                "pos": {
+                    "x_min": 904,
+                    "x_max": 906,
+                    "y_min": 56,
+                    "y_max": 68
+                }
+            },
+            {
+                "description": "THR",
+                "pos": {
+                    "x_min": 885,
+                    "x_max": 902,
+                    "y_min": 131,
+                    "y_max": 143
+                }
+            },
+            {
+                "description": "HION",
+                "pos": {
+                    "x_min": 871,
+                    "x_max": 891,
+                    "y_min": 56,
+                    "y_max": 68
+                }
+            },
+            {
+                "description": "A",
+                "pos": {
+                    "x_min": 865,
+                    "x_max": 869,
+                    "y_min": 44,
+                    "y_max": 48
+                }
+            }
+        ]
+    },
+    {
+        "script": "2040IL-[",
+        "trans_script": "2040IL-[",
+        "pos": {
+            "x_min": 839,
+            "x_max": 901,
+            "y_min": 776,
+            "y_max": 1116
+        },
+        "raw": [
+            {
+                "description": "20",
+                "pos": {
+                    "x_min": 839,
+                    "x_max": 901,
+                    "y_min": 960,
+                    "y_max": 1048
+                }
+            },
+            {
+                "description": "40",
+                "pos": {
+                    "x_min": 860,
+                    "x_max": 899,
+                    "y_min": 857,
+                    "y_max": 893
+                }
+            },
+            {
+                "description": "IL",
+                "pos": {
+                    "x_min": 844,
+                    "x_max": 898,
+                    "y_min": 776,
+                    "y_max": 820
+                }
+            },
+            {
+                "description": "-",
+                "pos": {
+                    "x_min": 877,
+                    "x_max": 896,
+                    "y_min": 1049,
+                    "y_max": 1116
+                }
+            },
+            {
+                "description": "[",
+                "pos": {
+                    "x_min": 853,
+                    "x_max": 866,
+                    "y_min": 827,
+                    "y_max": 858
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,623 @@
+[
+    {
+        "script": "に対する",
+        "trans_script": "에 대한",
+        "pos": {
+            "x_min": 680,
+            "x_max": 741,
+            "y_min": 805,
+            "y_max": 1015
+        },
+        "raw": [
+            {
+                "description": "に対する",
+                "pos": {
+                    "x_min": 680,
+                    "x_max": 741,
+                    "y_min": 805,
+                    "y_max": 1015
+                }
+            }
+        ]
+    },
+    {
+        "script": "それが",
+        "trans_script": "그.",
+        "pos": {
+            "x_min": 877,
+            "x_max": 977,
+            "y_min": 138,
+            "y_max": 432
+        },
+        "raw": [
+            {
+                "description": "それ",
+                "pos": {
+                    "x_min": 879,
+                    "x_max": 977,
+                    "y_min": 138,
+                    "y_max": 328
+                }
+            },
+            {
+                "description": "が",
+                "pos": {
+                    "x_min": 877,
+                    "x_max": 973,
+                    "y_min": 339,
+                    "y_max": 432
+                }
+            }
+        ]
+    },
+    {
+        "script": "この国の夜だ",
+        "trans_script": "이 나라의 밤이다",
+        "pos": {
+            "x_min": 867,
+            "x_max": 972,
+            "y_min": 455,
+            "y_max": 1044
+        },
+        "raw": [
+            {
+                "description": "この",
+                "pos": {
+                    "x_min": 873,
+                    "x_max": 972,
+                    "y_min": 455,
+                    "y_max": 634
+                }
+            },
+            {
+                "description": "国",
+                "pos": {
+                    "x_min": 871,
+                    "x_max": 968,
+                    "y_min": 652,
+                    "y_max": 748
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 870,
+                    "x_max": 966,
+                    "y_min": 766,
+                    "y_max": 837
+                }
+            },
+            {
+                "description": "夜",
+                "pos": {
+                    "x_min": 868,
+                    "x_max": 965,
+                    "y_min": 857,
+                    "y_max": 957
+                }
+            },
+            {
+                "description": "だ",
+                "pos": {
+                    "x_min": 867,
+                    "x_max": 963,
+                    "y_min": 963,
+                    "y_max": 1044
+                }
+            }
+        ]
+    },
+    {
+        "script": "全国の28の大学附属結果、アンケートのがアルバイト医研修のwww全体の2%に過ぎずうちのの研修医出たアルバイトに2いといるて経験し単独診いう90%が",
+        "trans_script": "전국의 28개 대학 부속결과 설문지가 아르바이트의 연수의 ㅋㅋ전체의 2%에 불과하고 우리 연수의사가 나온 아르바이트에 2명이 있어서 경험했고 단독진단의 90%가",
+        "pos": {
+            "x_min": 108,
+            "x_max": 743,
+            "y_min": 178,
+            "y_max": 1110
+        },
+        "raw": [
+            {
+                "description": "全国",
+                "pos": {
+                    "x_min": 683,
+                    "x_max": 743,
+                    "y_min": 185,
+                    "y_max": 300
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 683,
+                    "x_max": 743,
+                    "y_min": 304,
+                    "y_max": 349
+                }
+            },
+            {
+                "description": "28",
+                "pos": {
+                    "x_min": 683,
+                    "x_max": 743,
+                    "y_min": 359,
+                    "y_max": 404
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 683,
+                    "x_max": 743,
+                    "y_min": 411,
+                    "y_max": 459
+                }
+            },
+            {
+                "description": "大学",
+                "pos": {
+                    "x_min": 682,
+                    "x_max": 742,
+                    "y_min": 462,
+                    "y_max": 572
+                }
+            },
+            {
+                "description": "附属",
+                "pos": {
+                    "x_min": 682,
+                    "x_max": 742,
+                    "y_min": 576,
+                    "y_max": 686
+                }
+            },
+            {
+                "description": "結果",
+                "pos": {
+                    "x_min": 568,
+                    "x_max": 629,
+                    "y_min": 495,
+                    "y_max": 611
+                }
+            },
+            {
+                "description": "、",
+                "pos": {
+                    "x_min": 569,
+                    "x_max": 629,
+                    "y_min": 610,
+                    "y_max": 622
+                }
+            },
+            {
+                "description": "アンケート",
+                "pos": {
+                    "x_min": 564,
+                    "x_max": 628,
+                    "y_min": 186,
+                    "y_max": 441
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 567,
+                    "x_max": 627,
+                    "y_min": 445,
+                    "y_max": 490
+                }
+            },
+            {
+                "description": "が",
+                "pos": {
+                    "x_min": 452,
+                    "x_max": 521,
+                    "y_min": 663,
+                    "y_max": 713
+                }
+            },
+            {
+                "description": "アルバイト",
+                "pos": {
+                    "x_min": 448,
+                    "x_max": 520,
+                    "y_min": 411,
+                    "y_max": 660
+                }
+            },
+            {
+                "description": "医",
+                "pos": {
+                    "x_min": 448,
+                    "x_max": 517,
+                    "y_min": 303,
+                    "y_max": 358
+                }
+            },
+            {
+                "description": "研修",
+                "pos": {
+                    "x_min": 446,
+                    "x_max": 516,
+                    "y_min": 185,
+                    "y_max": 309
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 448,
+                    "x_max": 516,
+                    "y_min": 363,
+                    "y_max": 406
+                }
+            },
+            {
+                "description": "www",
+                "pos": {
+                    "x_min": 431,
+                    "x_max": 446,
+                    "y_min": 520,
+                    "y_max": 578
+                }
+            },
+            {
+                "description": "全体",
+                "pos": {
+                    "x_min": 342,
+                    "x_max": 398,
+                    "y_min": 178,
+                    "y_max": 303
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 342,
+                    "x_max": 398,
+                    "y_min": 305,
+                    "y_max": 350
+                }
+            },
+            {
+                "description": "2",
+                "pos": {
+                    "x_min": 342,
+                    "x_max": 398,
+                    "y_min": 359,
+                    "y_max": 404
+                }
+            },
+            {
+                "description": "%",
+                "pos": {
+                    "x_min": 342,
+                    "x_max": 398,
+                    "y_min": 416,
+                    "y_max": 448
+                }
+            },
+            {
+                "description": "に",
+                "pos": {
+                    "x_min": 342,
+                    "x_max": 398,
+                    "y_min": 470,
+                    "y_max": 522
+                }
+            },
+            {
+                "description": "過ぎ",
+                "pos": {
+                    "x_min": 342,
+                    "x_max": 398,
+                    "y_min": 520,
+                    "y_max": 629
+                }
+            },
+            {
+                "description": "ず",
+                "pos": {
+                    "x_min": 342,
+                    "x_max": 398,
+                    "y_min": 633,
+                    "y_max": 692
+                }
+            },
+            {
+                "description": "うち",
+                "pos": {
+                    "x_min": 225,
+                    "x_max": 289,
+                    "y_min": 827,
+                    "y_max": 932
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 226,
+                    "x_max": 289,
+                    "y_min": 935,
+                    "y_max": 986
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 225,
+                    "x_max": 288,
+                    "y_min": 778,
+                    "y_max": 826
+                }
+            },
+            {
+                "description": "研修",
+                "pos": {
+                    "x_min": 223,
+                    "x_max": 287,
+                    "y_min": 609,
+                    "y_max": 720
+                }
+            },
+            {
+                "description": "医",
+                "pos": {
+                    "x_min": 224,
+                    "x_max": 287,
+                    "y_min": 720,
+                    "y_max": 770
+                }
+            },
+            {
+                "description": "出",
+                "pos": {
+                    "x_min": 222,
+                    "x_max": 286,
+                    "y_min": 497,
+                    "y_max": 554
+                }
+            },
+            {
+                "description": "た",
+                "pos": {
+                    "x_min": 223,
+                    "x_max": 286,
+                    "y_min": 553,
+                    "y_max": 606
+                }
+            },
+            {
+                "description": "アルバイト",
+                "pos": {
+                    "x_min": 219,
+                    "x_max": 285,
+                    "y_min": 189,
+                    "y_max": 444
+                }
+            },
+            {
+                "description": "に",
+                "pos": {
+                    "x_min": 222,
+                    "x_max": 285,
+                    "y_min": 445,
+                    "y_max": 493
+                }
+            },
+            {
+                "description": "2",
+                "pos": {
+                    "x_min": 195,
+                    "x_max": 216,
+                    "y_min": 598,
+                    "y_max": 620
+                }
+            },
+            {
+                "description": "い",
+                "pos": {
+                    "x_min": 115,
+                    "x_max": 177,
+                    "y_min": 1009,
+                    "y_max": 1058
+                }
+            },
+            {
+                "description": "と",
+                "pos": {
+                    "x_min": 114,
+                    "x_max": 176,
+                    "y_min": 957,
+                    "y_max": 1006
+                }
+            },
+            {
+                "description": "いる",
+                "pos": {
+                    "x_min": 112,
+                    "x_max": 175,
+                    "y_min": 858,
+                    "y_max": 949
+                }
+            },
+            {
+                "description": "て",
+                "pos": {
+                    "x_min": 112,
+                    "x_max": 174,
+                    "y_min": 805,
+                    "y_max": 863
+                }
+            },
+            {
+                "description": "経験",
+                "pos": {
+                    "x_min": 109,
+                    "x_max": 173,
+                    "y_min": 646,
+                    "y_max": 749
+                }
+            },
+            {
+                "description": "し",
+                "pos": {
+                    "x_min": 111,
+                    "x_max": 173,
+                    "y_min": 750,
+                    "y_max": 807
+                }
+            },
+            {
+                "description": "単独",
+                "pos": {
+                    "x_min": 108,
+                    "x_max": 172,
+                    "y_min": 356,
+                    "y_max": 465
+                }
+            },
+            {
+                "description": "診",
+                "pos": {
+                    "x_min": 109,
+                    "x_max": 171,
+                    "y_min": 469,
+                    "y_max": 523
+                }
+            },
+            {
+                "description": "いう",
+                "pos": {
+                    "x_min": 118,
+                    "x_max": 171,
+                    "y_min": 1008,
+                    "y_max": 1110
+                }
+            },
+            {
+                "description": "90",
+                "pos": {
+                    "x_min": 108,
+                    "x_max": 170,
+                    "y_min": 191,
+                    "y_max": 246
+                }
+            },
+            {
+                "description": "%",
+                "pos": {
+                    "x_min": 108,
+                    "x_max": 170,
+                    "y_min": 250,
+                    "y_max": 297
+                }
+            },
+            {
+                "description": "が",
+                "pos": {
+                    "x_min": 108,
+                    "x_max": 170,
+                    "y_min": 302,
+                    "y_max": 356
+                }
+            }
+        ]
+    },
+    {
+        "script": "病院",
+        "trans_script": "병원.",
+        "pos": {
+            "x_min": 681,
+            "x_max": 741,
+            "y_min": 691,
+            "y_max": 798
+        },
+        "raw": [
+            {
+                "description": "病院",
+                "pos": {
+                    "x_min": 681,
+                    "x_max": 741,
+                    "y_min": 691,
+                    "y_max": 798
+                }
+            }
+        ]
+    },
+    {
+        "script": "はのいるれてさ禁止",
+        "trans_script": "엎드려서 금지.",
+        "pos": {
+            "x_min": 452,
+            "x_max": 526,
+            "y_min": 714,
+            "y_max": 1195
+        },
+        "raw": [
+            {
+                "description": "は",
+                "pos": {
+                    "x_min": 457,
+                    "x_max": 526,
+                    "y_min": 1137,
+                    "y_max": 1195
+                }
+            },
+            {
+                "description": "の",
+                "pos": {
+                    "x_min": 456,
+                    "x_max": 525,
+                    "y_min": 1090,
+                    "y_max": 1142
+                }
+            },
+            {
+                "description": "いる",
+                "pos": {
+                    "x_min": 455,
+                    "x_max": 524,
+                    "y_min": 989,
+                    "y_max": 1087
+                }
+            },
+            {
+                "description": "れ",
+                "pos": {
+                    "x_min": 454,
+                    "x_max": 523,
+                    "y_min": 886,
+                    "y_max": 937
+                }
+            },
+            {
+                "description": "て",
+                "pos": {
+                    "x_min": 454,
+                    "x_max": 523,
+                    "y_min": 937,
+                    "y_max": 991
+                }
+            },
+            {
+                "description": "さ",
+                "pos": {
+                    "x_min": 453,
+                    "x_max": 522,
+                    "y_min": 830,
+                    "y_max": 882
+                }
+            },
+            {
+                "description": "禁止",
+                "pos": {
+                    "x_min": 452,
+                    "x_max": 521,
+                    "y_min": 714,
+                    "y_max": 836
+                }
+            }
+        ]
+    }
+]
