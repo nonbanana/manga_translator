@@ -1,0 +1,7 @@
+google-cloud-vision
+google-cloud-storage
+scikit-learn
+translators
+jinja2
+pillow
+manga_ocr
