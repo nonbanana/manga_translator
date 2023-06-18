@@ -40,9 +40,19 @@ def drawOCRCluster(input_img, script_cluster, font):
 
     for script in script_cluster:
         # 글자 지우기
-        draw.rectangle((script["pos"]["x_min"], script["pos"]["y_min"], script["pos"]["x_max"], script["pos"]["y_max"]), fill=255)
+        draw.rectangle((script["pos"]["x_min"], script["pos"]["y_min"], script["pos"]["x_max"], script["pos"]["y_max"]), fill=(255, 255, 255))
         ### 번역 및 글자 장평 너비 조절
         # 글자 그리기
-        translated_script  = script["trans_script"] .replace(' ', '\n')
-        draw.multiline_text((script["pos"]["x_min"], script["pos"]["y_min"]), translated_script, font=font, fill=(0))
+        translated_script  = script["trans_script"].replace(' ', '\n')
+        
+        # draw.multiline_text((script["pos"]["x_min"], script["pos"]["y_min"]), translated_script, font=font, fill=(0))
+
+        draw.multiline_text((
+                                (script["pos"]["x_min"] +script["pos"]["x_max"])//2,
+                                (script["pos"]["y_min"] + script["pos"]["y_max"])//2
+                            ), 
+                            translated_script,
+                            anchor="mm",
+                            font=font,
+                            fill=(0))
 
